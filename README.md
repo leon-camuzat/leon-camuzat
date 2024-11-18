@@ -19,7 +19,7 @@ Mon premier projet en développement web! Découverte de HTML et CSS!
 ### [Fan-site La Femme](https://github.com/leon-camuzat/fan_site)
 Développement d'un fan-site résponsif et adaptatif sur le groupe de musique La Femme.
 
-### [Configuration et instalattion d'un DualBoot]
+### [Configuration et instalattion d'un DualBoot](https://github.com/leon-camuzat/Dual_Boot.git)
 Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
 
 ### [Développement d'une calculatrice avec Python]
