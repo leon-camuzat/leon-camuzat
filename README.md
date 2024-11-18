@@ -1,7 +1,6 @@
 # Bienvenue sur mon Github! 👋
 
-Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Je souhaite approfondir mes compétences en gestion des systèmes et des réseaux tout en contribuant activement à la performance d’une équipe technique.
-## Compétences
+Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une experience profesionnelle en tant qu'un Ingénieur du Son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
 - **Langages** : HTML5, CSS3, Python
 - **Frameworks et librairies** : React
 - **Outils** : Git, VMware Workstation Pro, Visual Studio Code
