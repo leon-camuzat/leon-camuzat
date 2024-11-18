@@ -26,10 +26,14 @@ Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Works
 Développement d'une calculatrice avec le language Python.
 
 ## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&hide_title=true&count_private=true&theme=radical&langs_count=5)
+
+<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leon-camuzat&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leon-camuzat&theme=radical&hide=html
 
 ## 🏆 Badges
 
