@@ -8,17 +8,17 @@ Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche
 
 ## 🚀 Mes projets
 
-### [Mon CV en ligne](https://github.com/leon-camuzat/fan_site)
-Une application pour gérer vos tâches quotidiennes avec des fonctionnalités de tri, d'ajout, de suppression et de modification des tâches. Développée avec React et Firebase pour le backend.
+### [Mon CV en ligne]
+Mon premier projet en développement web! Découverte de HTML et CSS!
 
-### [Un site internet sur le groupe de musique la Femme](https://github.com/votreutilisateur/portfolio)
-Mon portfolio en ligne où je présente mes projets et mes compétences. Conçu avec React, déployé sur Netlify.
+### [Un site internet sur le groupe de musique La Femme](https://github.com/leon-camuzat/fan_site)
+Développement d'un Fan-site résponsif et adaptatif sur le groupe de musique La Femme.
 
-### [Configuration et instalattion d'un DualBoot](https://github.com/votreutilisateur/user-api)
-Une API RESTful pour gérer les utilisateurs, avec des fonctionnalités d'authentification et de gestion des données. Utilise Node.js et MongoDB.
+### [Configuration et instalattion d'un DualBoot]
+Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
 
-### [Développement d'une calculatrice avec Python](https://github.com/votreutilisateur/gif-generator)
-Un outil permettant de créer des GIFs animés à partir de vidéos, utilisant la bibliothèque FFmpeg et une interface front-end en React.
+### [Développement d'une calculatrice avec Python]
+Développement d'une calculatrice avec le language Python.
 
 ## 📈 Statistiques GitHub
 
