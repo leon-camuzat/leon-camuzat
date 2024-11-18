@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github! 👋
 
-Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une experience profesionnelle en tant qu'un Ingénieur du Son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
+Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une experience profesionnelle en tant qu'un ingénieur du son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
 
 ## 🛠️ Compétences
 - **Langages** :![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,7 +40,6 @@ Développement d'une calculatrice avec le language Python.
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
-- [Mon portfolio]
 - [Email](mailto:leon.camuzat@laplateforme.io)
 
 **Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !**
