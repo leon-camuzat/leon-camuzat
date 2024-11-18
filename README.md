@@ -2,23 +2,22 @@
 
 Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Je souhaite approfondir mes compétences en gestion des systèmes et des réseaux tout en contribuant activement à la performance d’une équipe technique.
 ## Compétences
-- **Langages** : JavaScript, HTML5, CSS3, TypeScript, Python
-- **Frameworks et librairies** : React, Vue.js, Node.js, Express, Django
-- **Outils** : Git, Docker, Webpack, Firebase, MongoDB, PostgreSQL
-- **Méthodologies** : Agile, TDD, CI/CD
+- **Langages** : HTML5, CSS3, Python
+- **Frameworks et librairies** : React
+- **Outils** : Git, VMware Workstation Pro, Visual Studio Code
 
 ## 🚀 Mes projets
 
-### [📊 Application de gestion des tâches](https://github.com/votreutilisateur/todolist)
+### [Mon CV en ligne](https://github.com/votreutilisateur/todolist)
 Une application pour gérer vos tâches quotidiennes avec des fonctionnalités de tri, d'ajout, de suppression et de modification des tâches. Développée avec React et Firebase pour le backend.
 
-### [🌍 Portfolio personnel](https://github.com/votreutilisateur/portfolio)
+### [Un site internet sur le groupe de musique la Femme](https://github.com/votreutilisateur/portfolio)
 Mon portfolio en ligne où je présente mes projets et mes compétences. Conçu avec React, déployé sur Netlify.
 
-### [🛠️ API RESTful de gestion des utilisateurs](https://github.com/votreutilisateur/user-api)
+### [Configuration et instalattion d'un DualBoot](https://github.com/votreutilisateur/user-api)
 Une API RESTful pour gérer les utilisateurs, avec des fonctionnalités d'authentification et de gestion des données. Utilise Node.js et MongoDB.
 
-### [🎨 Générateur de GIFs animés](https://github.com/votreutilisateur/gif-generator)
+### [Développement d'une calculatrice avec Python](https://github.com/votreutilisateur/gif-generator)
 Un outil permettant de créer des GIFs animés à partir de vidéos, utilisant la bibliothèque FFmpeg et une interface front-end en React.
 
 ## 📈 Statistiques GitHub
