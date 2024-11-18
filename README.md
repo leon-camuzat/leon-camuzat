@@ -33,7 +33,7 @@ Développement d'une calculatrice avec le language Python.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leon-camuzat&theme=radical)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leon-camuzat&theme=radical&hide=html
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leon-camuzat&theme=radical&hide=html)
 
 ## 🏆 Badges
 
