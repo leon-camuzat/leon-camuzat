@@ -22,7 +22,7 @@ Développement d'un fan-site résponsif et adaptatif sur le groupe de musique La
 ### [Configuration et instalattion d'un DualBoot](https://github.com/leon-camuzat/Dual_Boot.git)
 Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
 
-### [Développement d'une calculatrice avec Python]
+### [Développement d'une calculatrice avec Python](https://github.com/leon-camuzat/Calculatrice.git)
 Développement d'une calculatrice avec le language Python.
 
 ## 📈 Statistiques GitHub
