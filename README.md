@@ -40,7 +40,9 @@ Développement d'une calculatrice avec le language Python.
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/-CSS-blue)](https://www.w3schools.com/css/)
 [![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
-[![VMware Workstation Pro](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VMware_Workstation_logo.svg/200px-VMware_Workstation_logo.svg.png)](https://www.vmware.com/products/workstation-pro.html)
+<a href="https://www.vmware.com/products/workstation-pro.html">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VMware_Workstation_logo.svg/200px-VMware_Workstation_logo.svg.png" alt="VMware Workstation Pro">
+</a>
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue)](https://code.visualstudio.com/)
 
 ## 📫 Me contacter
