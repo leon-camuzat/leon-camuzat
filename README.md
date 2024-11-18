@@ -38,5 +38,4 @@ Développement d'une calculatrice avec le language Python.
 - [Mon portfolio]
 - [Email](mailto:leon.camuzat@laplateforme.io)
 
-
-**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations possibles.**
+**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !**
