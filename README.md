@@ -16,10 +16,10 @@ Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche
 ### [CV](https://github.com/leon-camuzat/Mon_CV.git)
 Mon premier projet en développement web! Découverte de HTML et CSS!
 
-### [FanSite](https://github.com/leon-camuzat/fan_site)
+### [Site Internet](https://github.com/leon-camuzat/fan_site)
 Développement d'un fan-site résponsif et adaptatif sur le groupe de musique La Femme.
 
-### [DualBoot](https://github.com/leon-camuzat/Dual_Boot.git)
+### [Dual Boot](https://github.com/leon-camuzat/Dual_Boot.git)
 Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
 
 ### [Calculatrice](https://github.com/leon-camuzat/Calculatrice.git)
