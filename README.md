@@ -22,7 +22,7 @@ Développement d'une calculatrice avec le language Python.
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=votreutilisateur&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 🏆 Badges
 
