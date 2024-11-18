@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github! 👋
 
-Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une experience profesionnelle en tant qu'un ingénieur du son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
+Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une longue experience profesionnelle en tant qu'un ingénieur du son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
 
 ## 🛠️ Compétences
 - **Langages** :   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
