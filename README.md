@@ -11,8 +11,8 @@ Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche
 ### [Mon CV en ligne]
 Mon premier projet en développement web! Découverte de HTML et CSS!
 
-### [Un site internet sur le groupe de musique La Femme](https://github.com/leon-camuzat/fan_site)
-Développement d'un Fan-site résponsif et adaptatif sur le groupe de musique La Femme.
+### [Fan-site La Femme](https://github.com/leon-camuzat/fan_site)
+Développement d'un fan-site résponsif et adaptatif sur le groupe de musique La Femme.
 
 ### [Configuration et instalattion d'un DualBoot]
 Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
