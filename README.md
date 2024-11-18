@@ -26,10 +26,11 @@ Développement d'une calculatrice avec le language Python.
 
 ## 🏆 Badges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://www.javascript.com)
-[![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://nodejs.org)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/-CSS-blue)](https://www.w3schools.com/css/)
+[![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
+[![VMware Workstation Pro](https://img.shields.io/badge/-VMware_Workstation-Pro-lightgrey)](https://www.vmware.com/products/workstation-pro.html)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue)](https://code.visualstudio.com/)
 
 ## 📫 Me contacter
 
