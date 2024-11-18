@@ -1,7 +1,6 @@
-# Bienvenu sur mon Github! 👋
+# Bienvenue sur mon Github! 👋
 
-Je suis développeur web passionné, spécialisé dans le développement front-end et full-stack. J'aime créer des applications modernes et responsives en utilisant des technologies comme React, Vue.js, Node.js, et bien plus encore. Toujours curieux, j'aime aussi contribuer à des projets open-source et relever des défis techniques.
-
+Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Je souhaite approfondir mes compétences en gestion des systèmes et des réseaux tout en contribuant activement à la performance d’une équipe technique.
 ## Compétences
 - **Langages** : JavaScript, HTML5, CSS3, TypeScript, Python
 - **Frameworks et librairies** : React, Vue.js, Node.js, Express, Django
