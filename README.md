@@ -40,4 +40,3 @@ Développement d'une calculatrice avec le language Python.
 
 
 **Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations possibles.**
-
