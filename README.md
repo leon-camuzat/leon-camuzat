@@ -2,7 +2,7 @@
 
 Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche d'une alternance en administration système et réseaux à Marseille. Fort d'une experience profesionnelle en tant qu'un Ingénieur du Son je possède des prédispostions en configuration, parametrages, routing, adressage et cablâge.
 
-## Compétences
+## 🛠️ Compétences
 - **Langages** :![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
