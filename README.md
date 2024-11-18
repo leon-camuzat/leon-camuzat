@@ -8,7 +8,7 @@ Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche
 
 ## 🚀 Mes projets
 
-### [Mon CV en ligne](https://github.com/votreutilisateur/todolist)
+### [Mon CV en ligne](https://github.com/leon-camuzat/fan_site)
 Une application pour gérer vos tâches quotidiennes avec des fonctionnalités de tri, d'ajout, de suppression et de modification des tâches. Développée avec React et Firebase pour le backend.
 
 ### [Un site internet sur le groupe de musique la Femme](https://github.com/votreutilisateur/portfolio)
