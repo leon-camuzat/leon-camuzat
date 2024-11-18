@@ -7,7 +7,7 @@ Passionné d'informatique et étudiant à La Plateforme, je suis à la recherche
 
 ## 🚀 Mes projets
 
-### [Mon CV en ligne]
+### [Mon CV en ligne](https://github.com/leon-camuzat/Mon_CV.git)
 Mon premier projet en développement web! Découverte de HTML et CSS!
 
 ### [Fan-site La Femme](https://github.com/leon-camuzat/fan_site)
