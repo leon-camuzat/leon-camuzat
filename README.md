@@ -22,8 +22,8 @@ Développement d'un fan-site résponsif et adaptatif sur le groupe de musique La
 ### [Dual Boot](https://github.com/leon-camuzat/Dual_Boot.git)
 Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Workstation Pro.
 
-### [Calculatrice](https://github.com/leon-camuzat/Calculatrice.git)
-Développement d'une calculatrice avec le language Python.
+### [Morpion](https://github.com/leon-camuzat/Calculatrice.git)
+Développement d'un morpion avec le language Python.
 
 ### [Portfolio](https://github.com/leon-camuzat/Calculatrice.git)
 Développement et conception de mon portfolio.
