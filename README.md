@@ -25,6 +25,11 @@ Instalation et configuration d'un DualBoot (Windows et Débian) sur VMWare Works
 ### [Calculatrice](https://github.com/leon-camuzat/Calculatrice.git)
 Développement d'une calculatrice avec le language Python.
 
+### [Portfolio](https://github.com/leon-camuzat/Calculatrice.git)
+Développement et conception de mon portfolio.
+
+
+
 ## 📈 Statistiques GitHub
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&hide_title=true&count_private=true&theme=radical&langs_count=5)
