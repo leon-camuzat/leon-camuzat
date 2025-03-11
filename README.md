@@ -49,6 +49,13 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ---
 
+### 🤝 Projets Collaboratifs
+
+- [**Serveur VOIP (Collaboration)**](https://github.com/panharidh-ly/Voip-Server)  
+  *Participation à un projet collaboratif autour de serveurs VOIP.*
+
+---
+
 ### 🌐 Développement Web
 
 - [**Portfolio Personnel**](https://github.com/leon-camuzat/Calculatrice.git)  
@@ -63,13 +70,6 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion)  
   *Développement d'un jeu de morpion en Python.*
-
----
-
-### 🤝 Projets Collaboratifs
-
-- [**Serveur VOIP (Collaboration)**](https://github.com/panharidh-ly/Voip-Server)  
-  *Participation à un projet collaboratif autour de serveurs VOIP.*
 
 ---
 
