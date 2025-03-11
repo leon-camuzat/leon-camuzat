@@ -30,7 +30,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ---
 
-### 🖥️ Administration Système & Réseaux
+### 🖥️ Administration Système & Réseaux - Documentations techniques - Obsidian
 
 - [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
@@ -55,7 +55,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
   *Développement et conception de mon portfolio.*
 
 - [**Fan-site du groupe La Femme**](https://github.com/leon-camuzat/fan_site)  
-  *Création d'un site réactif et adaptatif dédié au groupe musical.*
+  *Création d'un site réactif et adaptatif dédié au groupe musical La Femme.*
 
 ---
 
@@ -72,46 +72,6 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
   *Participation à un projet collaboratif autour de serveurs VOIP.*
 
 ---
-
-## 🚀 Mes projets
-
-🖥️ Mes documentations techniques via Obsidian - Administration système et réseaux
-
-### [Serveur_VOIP](https://github.com/leon-camuzat/Serveur_VOIP)
-Installation, configuration, test et sécurisation d'un serveur VOIP.
-
-### [Serveur_DHCP_DNS_SFTP_SSH](https://github.com/leon-camuzat/ftp_dhcp_ssh)
-Déploiement d'un serveur DHCP, DNS et SFTP, permettant le transfert de fichiers chiffrés via SSH depuis une machine cliente.
-
-### [Cisco_Packet_Tracer_Gateway](https://github.com/leon-camuzat/Cisco_Gateway)
-Mise en place d'une Gateway sur Cisco Packet Tracer et simulation d'envois de paquets de données.
-
-### [Cisco_Packet_Tracer_DHCP](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)
-Mise en place d'un serveur DHCP sur Cisco Packet Tracer et attribution automatisé d'adresses IP.
-
-### [Dual_Boot_Windows_Linux](https://github.com/leon-camuzat/Dual_Boot)
-Configuration d'un dual-boot Windows/Linux sur VmWare Workstation Pro.
-
-
-
-🌐 Mes projets de développement Web
-
-### [Portfolio](https://github.com/leon-camuzat/Calculatrice.git)
-Développement et conception de mon portfolio.
-
-### [Site Internet](https://github.com/leon-camuzat/fan_site)
-Développement d'un fan-site réactif et adaptatif sur le groupe de musique La Femme.
-
-
-
-🐍 Mes projets Python
-
-### [Morpion](https://github.com/leon-camuzat/Morpion)
-Développement d'un morpion avec le language Python.
-
-🤝 Mes travaux collaboratifs
-
-### [Serveur_VOIP](https://github.com/panharidh-ly/Voip-Server)
 
 ## 📈 Statistiques GitHub
 <!-- GitHub Stats -->
