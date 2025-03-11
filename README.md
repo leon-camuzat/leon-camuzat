@@ -85,12 +85,22 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ## 🏆 Badges
 
-[![HTML](https://img.shields.io/badge/-HTML-orange)](https://www.w3schools.com/html/)
-[![CSS](https://img.shields.io/badge/-CSS-blue)](https://www.w3schools.com/css/)
-[![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue)](https://code.visualstudio.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![VMware Workstation Pro](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-pro.html)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 
-## 📫 Me contacter
+## 📬 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
 - [Email](mailto:leon.camuzat@laplateforme.io)
