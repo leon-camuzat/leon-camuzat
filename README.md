@@ -26,10 +26,56 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
   ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
   ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
 
+## 🚀 Mes projets
+
+---
+
+### 🖥️ Administration Système & Réseaux
+
+- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
+  *Installation, configuration, test et sécurisation d'un serveur VOIP.*
+
+- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)  
+  *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
+
+- [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)  
+  *Simulation d'une Gateway et gestion de paquets de données.*
+
+- [**Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)  
+  *Déploiement serveur DHCP pour attribution automatique d’adresses IP.*
+
+- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot)  
+  *Configuration d'un dual-boot Windows/Linux via VMware Workstation Pro.*
+
+---
+
+### 🌐 Développement Web
+
+- [**Portfolio Personnel**](https://github.com/leon-camuzat/Calculatrice.git)  
+  *Développement et conception de mon portfolio.*
+
+- [**Fan-site du groupe La Femme**](https://github.com/leon-camuzat/fan_site)  
+  *Création d'un site réactif et adaptatif dédié au groupe musical.*
+
+---
+
+### 🐍 Développement Python
+
+- [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion)  
+  *Développement d'un jeu de morpion en Python.*
+
+---
+
+### 🤝 Projets Collaboratifs
+
+- [**Serveur VOIP (Collaboration)**](https://github.com/panharidh-ly/Voip-Server)  
+  *Participation à un projet collaboratif autour de serveurs VOIP.*
+
+---
 
 ## 🚀 Mes projets
 
-🖥️ 1. Mes documentations techniques via Obsidian - Administration système et réseaux
+🖥️ Mes documentations techniques via Obsidian - Administration système et réseaux
 
 ### [Serveur_VOIP](https://github.com/leon-camuzat/Serveur_VOIP)
 Installation, configuration, test et sécurisation d'un serveur VOIP.
@@ -48,7 +94,7 @@ Configuration d'un dual-boot Windows/Linux sur VmWare Workstation Pro.
 
 
 
-🌐 2. Mes projets de développement Web
+🌐 Mes projets de développement Web
 
 ### [Portfolio](https://github.com/leon-camuzat/Calculatrice.git)
 Développement et conception de mon portfolio.
@@ -58,12 +104,12 @@ Développement d'un fan-site réactif et adaptatif sur le groupe de musique La F
 
 
 
-🐍 3. Mes projets Python
+🐍 Mes projets Python
 
 ### [Morpion](https://github.com/leon-camuzat/Morpion)
 Développement d'un morpion avec le language Python.
 
-🤝 4. Mes travaux en groupe
+🤝 Mes travaux collaboratifs
 
 ### [Serveur_VOIP](https://github.com/panharidh-ly/Voip-Server)
 
