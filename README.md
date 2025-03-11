@@ -46,6 +46,8 @@ Mise en place d'un serveur DHCP sur Cisco Packet Tracer et attribution automatis
 ### [Dual_Boot_Windows_Linux](https://github.com/leon-camuzat/Dual_Boot)
 Configuration d'un dual-boot Windows/Linux sur VmWare Workstation Pro.
 
+
+
 🌐 2. Mes projets de développement Web
 
 ### [Portfolio](https://github.com/leon-camuzat/Calculatrice.git)
@@ -53,6 +55,8 @@ Développement et conception de mon portfolio.
 
 ### [Site Internet](https://github.com/leon-camuzat/fan_site)
 Développement d'un fan-site réactif et adaptatif sur le groupe de musique La Femme.
+
+
 
 🐍 3. Mes projets Python
 
