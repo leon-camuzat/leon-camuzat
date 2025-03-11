@@ -79,4 +79,4 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 - [Email](mailto:leon.camuzat@laplateforme.io)
 - 📞 Téléphone : 06 02 42 69 72
 
-**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !**
+**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
