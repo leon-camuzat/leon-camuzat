@@ -2,9 +2,7 @@
 
 Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
 
----
-
-## 🛠️ Compétences
+### 🛠️ Compétences
 
 - **Langages** :  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,7 +26,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
   ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
   ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
 
-## 🚀 Mes projets
+### 🚀 Mes projets
 
 ---
 
