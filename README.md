@@ -38,7 +38,7 @@ Installation, configuration, test et sécurisation d'un serveur VOIP.
 Déploiement d'un serveur DHCP, DNS et SFTP, permettant le transfert de fichiers chiffrés via SSH depuis une machine cliente.
 
 ### [Cisco_Packet_Tracer_Gateway](https://github.com/leon-camuzat/Cisco_Gateway)
-Mise en place d'une Gateway sur Cisco Packet Tracet et simulation d'envois de paquets de données.
+Mise en place d'une Gateway sur Cisco Packet Tracer et simulation d'envois de paquets de données.
 
 ### [Cisco_Packet_Tracer_DHCP](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)
 Mise en place d'un serveur DHCP sur Cisco Packet Tracer et attribution automatisé d'adresses IP.
