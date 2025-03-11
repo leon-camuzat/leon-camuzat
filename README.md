@@ -30,7 +30,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ---
 
-### 🖥️ Administration Système & Réseaux - Documentations techniques - Obsidian
+### 🖥️ Administration Système & Réseaux - Documentations techniques
 
 - [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
