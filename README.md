@@ -3,7 +3,6 @@
 Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
 
 ## 🛠️ Compétences
-## 🛠️ Compétences
 
 - **Langages** :  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
