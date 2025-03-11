@@ -1,9 +1,6 @@
 # Bienvenue sur mon Github! 👋
 
- Fort d'une expérience de plus de 10 ans comme technicien du
- spectacle je souhaite mettre mes compétences techniques et
- relationnels au service d'une entreprise en tant que technicien
- informatique support et maintenance.
+Découvrez mes différents projets et documentations techniques! 
 
 ## 🛠️ Compétences
 - **Langages** :   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
