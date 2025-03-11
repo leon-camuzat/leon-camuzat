@@ -39,7 +39,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
   *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
 
 - [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)  
-  *Simulation d'une Gateway et gestion de paquets de données.*
+  *Simulation d'une Gateway et simulation d'envois de paquets de données.*
 
 - [**Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)  
   *Déploiement serveur DHCP pour attribution automatique d’adresses IP.*
