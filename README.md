@@ -32,8 +32,8 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ### 🖥️ Administration Système & Réseaux - Documentations techniques
 
-- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)
-  *Instalation, configuration, test et securisation d'un NAS RAID5.*
+- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  
+  *Installation, configuration, test et sécurisation d'un NAS RAID5.*
 
 - [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
