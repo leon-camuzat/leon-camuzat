@@ -88,3 +88,6 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 - 📞 Téléphone : 06-02-42-69-72
 
 **Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=leon-camuzat&theme=algolia&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
