@@ -1,4 +1,4 @@
-#### 👋 Salut et bienvenue sur mon GitHub ! Moi, c’est Léon 👨‍💻
+### 👋 Salut et bienvenue sur mon GitHub ! Moi, c’est Léon 👨‍💻
 
 ---
 
