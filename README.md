@@ -29,9 +29,10 @@
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  
-### 🚀 Mes projets
 
+---
+### 🚀 Mes projets!
+---
 
 ### 🖥️ Administration Système & Réseaux - Documentations techniques
 
