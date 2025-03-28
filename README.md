@@ -87,9 +87,13 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 - [Email](mailto:leon.camuzat@laplateforme.io)
 - 📞 Téléphone : 06-02-42-69-72
 
-**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
+## 📊 Mon activité GitHub
 
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=leon-camuzat&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&line_height=24&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
+
+![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
+
+**Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
 
 
 
