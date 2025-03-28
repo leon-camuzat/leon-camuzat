@@ -1,11 +1,5 @@
 # 👋 Bienvenue sur mon GitHub ! Moi, c’est Léon !
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&count_private=true&hide=prs,issues&theme=algolia)
-
-</div>
-
 Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
 
 ### 🛠️ Compétences
