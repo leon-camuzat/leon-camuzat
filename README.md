@@ -91,7 +91,8 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 <div align="center">
 
-[![Commit Trophy](https://github-profile-trophy.vercel.app/?username=leon-camuzat&theme=algolia&no-frame=true&column=1&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub last commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat)
+
 
 </div>
 
