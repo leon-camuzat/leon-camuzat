@@ -2,11 +2,11 @@
 
 ---
 
-### Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
+## Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
 
 ---
 
-### 🛠️ Compétences
+## 🛠️ Compétences
 
 - **Réseaux & Virtualisation** :  
   ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
@@ -31,10 +31,10 @@
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 🚀 Mes projets!
+## 🚀 Mes projets!
 ---
 
-### 🖥️ Administration Système & Réseaux - Documentations techniques
+## 🖥️ Administration Système & Réseaux - Documentations techniques
 
 - [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  
   *Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
@@ -59,7 +59,7 @@
 
 ---
 
-### 🤝 Projets Collaboratifs
+## 🤝 Projets Collaboratifs
 
 - [**Serveur NAS RAID5**](https://github.com/panharidh-ly/Nas-serveur.git)  
   *Participation à un projet collaboratif autour d'un serveur NAS RAID5.*
@@ -68,7 +68,7 @@
 
 ---
 
-### 🌐 Développement Web
+## 🌐 Développement Web
 
 - [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git)  
   *Développement et conception de mon portfolio.*
@@ -78,7 +78,7 @@
 
 ---
 
-### 🐍 Développement Python
+## 🐍 Développement Python
 
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion)  
   *Développement d'un jeu de morpion en Python.*
