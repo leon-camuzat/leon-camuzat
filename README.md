@@ -66,7 +66,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ### 🌐 Développement Web
 
-- [**Portfolio Personnel**](https://github.com/leon-camuzat/Calculatrice.git)  
+- [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git)  
   *Développement et conception de mon portfolio.*
 
 - [**Fan-site du groupe La Femme**](https://github.com/leon-camuzat/fan_site)  
