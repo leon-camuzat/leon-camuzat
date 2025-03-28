@@ -1,7 +1,7 @@
-# 👋 Bienvenue sur mon GitHub ! Moi, c’est Léon !
-
+👋 Salut et bienvenue sur mon GitHub ! Moi, c’est Léon 👨‍💻
+---
 Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
-
+---
 ### 🛠️ Compétences
 
 - **Réseaux & Virtualisation** :  
@@ -87,11 +87,15 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 - [Email](mailto:leon.camuzat@laplateforme.io)
 - 📞 Téléphone : 06-02-42-69-72
 
+---
+
 ## 📊 Mon activité GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
+
+---
 
 **Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
 
