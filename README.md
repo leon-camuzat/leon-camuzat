@@ -91,8 +91,7 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&count_private=true&hide=prs,issues&theme=algolia)
 
 </div>
 
