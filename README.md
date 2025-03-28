@@ -32,6 +32,11 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 ### 🖥️ Administration Système & Réseaux - Documentations techniques
 
+https://github.com/leon-camuzat/TrueNAS-Scale.git
+
+- [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  
+  *Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
+
 - [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  
   *Installation, configuration, test et sécurisation d'un NAS RAID5.*
 
