@@ -89,10 +89,8 @@ Découvrez mes différents projets et documentations techniques! N’hésitez pa
 
 **Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter !** 👋
 
-<div align="center">
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=leon-camuzat&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&line_height=24&theme=algolia)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&count_private=true&hide=prs,issues&theme=algolia)
 
-</div>
 
 
