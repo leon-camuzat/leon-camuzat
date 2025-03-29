@@ -2,7 +2,7 @@
 
 ---
 
-### Découvrez mes différents projets et documentations techniques! N’hésitez pas à explorer mes dépôts et à échanger avec moi!
+### Découvrez mes différents projets et documentations techniques!
 
 ---
 
