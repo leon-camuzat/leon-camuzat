@@ -61,6 +61,8 @@
 
 ### 🤝 Projets Collaboratifs
 
+- [**Serveur TrueNAS Scale RAIDZ2**](https://github.com/ilona-baude/TrueNAS-Scale.git)  
+  *Participation à un projet collaboratif autour d'un serveur NAS RAID5.*
 - [**Serveur NAS RAID5**](https://github.com/panharidh-ly/Nas-serveur.git)  
   *Participation à un projet collaboratif autour d'un serveur NAS RAID5.*
 - [**Serveur VOIP**](https://github.com/panharidh-ly/Voip-Server)  
