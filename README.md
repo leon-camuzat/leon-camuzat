@@ -38,11 +38,9 @@
 
 
 - [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)
-  
   *Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
-
-- [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)
   
+- [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)
   *Installation, configuration et sécurisation d’un serveur Windows Server AD*
 
 - [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  
