@@ -39,16 +39,16 @@
 
 - [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)
   *Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
-  
+
 - [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)
   *Installation, configuration et sécurisation d’un serveur Windows Server AD*
-
-- [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  
+  
+- [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)
   *Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
-
+  
 - [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  
   *Installation, configuration, test et sécurisation d'un NAS RAID5.*
-
+  
 - [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
 
