@@ -42,27 +42,35 @@
   *Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
 
 - [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)
+
   *Installation, configuration et sécurisation d’un serveur Windows Server AD*
   
 - [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)
+
   *Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
   
-- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  
+- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)
+  
   *Installation, configuration, test et sécurisation d'un NAS RAID5.*
   
-- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  
+- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)
+  
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
 
-- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)  
+- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)
+  
   *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
 
-- [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)  
+- [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)
+   
   *Simulation d'une Gateway et simulation d'envois de paquets de données.*
 
-- [**Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)  
+- [**Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)
+  
   *Déploiement serveur DHCP pour attribution automatique d’adresses IP.*
 
-- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot)  
+- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot)
+  
   *Configuration d'un dual-boot Windows/Linux via VMware Workstation Pro.*
 
 ---
