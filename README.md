@@ -36,13 +36,13 @@
 
 ### 🎓 2 ème année - Licence d'Administrateur d'Infrastructure Réseaux Sécurisés
 
-- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
+- [**🐳Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
 
-- [**Docker**](https://github.com/leon-camuzat/Docker.git)  *: Introduction à Docker.*
+- [**🐳Docker**](https://github.com/leon-camuzat/Docker.git)  *: Introduction à Docker.*
 
-- [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git)  *: Documentation technique sur Azure.*
+- [**☁️Azure AD**](https://github.com/leon-camuzat/Azure_AD.git)  *: Documentation technique sur Azure.*
 
-- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure)  *: Documentation technique sur AWS.*
+- [**☁️AWS**](https://github.com/leon-camuzat/AWS_-_Azure)  *: Documentation technique sur AWS.*
 
   ---
 
