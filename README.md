@@ -52,6 +52,10 @@
 
   *Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
 
+- [**Serveur Windows - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)
+
+  *Installation, configuration et sécurisation d’un serveur Windows Server PXE*
+
 - [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)
 
   *Installation, configuration et sécurisation d’un serveur Windows Server AD*
