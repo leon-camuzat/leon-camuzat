@@ -52,7 +52,7 @@
 
 - [**🏠Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git)  *: Documentation technique de mon projet Mini Lab*
 
-- [**🥑Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)  *: Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
+- [**🛡️Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)  *: Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
 
 - [**🏭Windows Server - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server PXE*
 
