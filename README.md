@@ -52,7 +52,7 @@
   
   *Documentation technique sur AWS.*
 
-  ### 🎓 1ère Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
+### 🎓 1ère Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git)
 
