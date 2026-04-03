@@ -75,6 +75,10 @@
 - [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git)
   
   *Déploiement d'un serveur LDAP*
+
+- [**VPN**](https://github.com/leon-camuzat/VPN.git)
+  
+  *Déploiement d'un VPN.*
   
 - [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)
   
