@@ -84,6 +84,10 @@
   
   *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
 
+- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git)
+  
+  *Edition de scripts Shell & Python*
+
 - [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git)
   
   *Introduction à l'interface en ligne de commande Shell*
