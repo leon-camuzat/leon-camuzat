@@ -31,7 +31,7 @@
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 🚀 Mes projets fait à La Plateforme!
+### 🚀 Mes projets fait à La Plateforme! 🚀
 ---
 
 ### 🎓 2 ème année - Licence d'Administrateur d'Infrastructure Réseaux Sécurisés
