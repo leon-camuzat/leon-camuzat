@@ -48,7 +48,7 @@
 
   *Documentation technique de mon projet WireShark*
 
-  - [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git)
+- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git)
 
   *Documentation technique de mon projet Mini Lab*
 
