@@ -36,9 +36,7 @@
 
 ### 🎓 2 ème année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
-- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git)
-  
-  *Déploiement d'un Cluster avec Docker Swarm.*
+- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
 
 - [**Docker**](https://github.com/leon-camuzat/Docker.git)
   
