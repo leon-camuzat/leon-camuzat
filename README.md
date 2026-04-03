@@ -72,6 +72,10 @@
   
   *Installation, configuration, test et sécurisation d'un serveur VOIP.*
 
+- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git)
+  
+  *Déploiement d'un serveur LDAP*
+  
 - [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)
   
   *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
