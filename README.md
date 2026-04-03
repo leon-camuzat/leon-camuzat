@@ -80,6 +80,10 @@
   
   *Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
 
+- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git)
+  
+  *Introduction à l'interface en ligne de commande Shell*
+
 - [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)
    
   *Simulation d'une Gateway et simulation d'envois de paquets de données.*
