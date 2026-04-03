@@ -40,9 +40,9 @@
   
   *Documentation technique sur Azure.*
 
-- [**AWS & Azure**](https://github.com/leon-camuzat/AWS_-_Azure)
+- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure)
   
-  *Documentation technique sur AWS et Azure.*
+  *Documentation technique sur AWS.*
 
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git)
 
