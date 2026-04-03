@@ -54,9 +54,9 @@
 
 - [**🥑Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)  *: Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
 
-- [**🏭Serveur Windows - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server PXE*
+- [**🏭Windows Server - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server PXE*
 
-- [**🏢Windows Serveur - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server AD*
+- [**🏢Windows Server - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server AD*
   
 - [**🗄️Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  *: Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
   
