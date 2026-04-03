@@ -34,7 +34,7 @@
 ### 🚀 Mes projets fait à La Plateforme!
 ---
 
-### 🎓 2 ème Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
+### 🎓 2 ème année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
 - [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git)
   
@@ -52,7 +52,7 @@
   
   *Documentation technique sur AWS.*
 
-### 🎓 1ère Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
+### 🎓 1ère année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git)
 
