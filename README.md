@@ -31,11 +31,10 @@
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 🚀 Mes projets!
+### 🚀 Mes projets fait à La Plateforme!
 ---
 
-### 🖥️ Administration Système & Réseaux - Documentations techniques
-
+### 🎓 2 ème Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
 - [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git)
   
@@ -52,6 +51,8 @@
 - [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure)
   
   *Documentation technique sur AWS.*
+
+  ### 🎓 1ère Année - Licence Administrateur d'Infrastructure Réseaux Sécurisés
 
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git)
 
