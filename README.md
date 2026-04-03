@@ -2,10 +2,6 @@
 
 ---
 
-### Découvrez mes différents projets et documentations techniques!
-
----
-
 ### 🛠️ Compétences
 
 - **Réseaux & Virtualisation** :  
