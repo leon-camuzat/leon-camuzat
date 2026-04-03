@@ -48,37 +48,37 @@
 
 ### 🎓 1ère année - Licence d'Administrateur d'Infrastructure Réseaux Sécurisés
 
-- [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) *: Documentation technique de mon projet WireShark*
+- [**🦈WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) *: Documentation technique de mon projet WireShark*
 
-- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git)  *: Documentation technique de mon projet Mini Lab*
+- [**🏠Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git)  *: Documentation technique de mon projet Mini Lab*
 
-- [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)  *: Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
+- [**🥑Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git)  *: Installation, configuration et sécurisation d’un Bastion avec Portail Guacamole*
 
-- [**Serveur Windows - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server PXE*
+- [**🏭Serveur Windows - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server PXE*
 
-- [**Serveur Windows - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server AD*
+- [**🏢Windows Serveur - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git)  *: Installation, configuration et sécurisation d’un serveur Windows Server AD*
   
-- [**Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  *: Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
+- [**🗄️Serveur TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git)  *: Installation, configuration, test et sécurisation d'un serveur TrueNAS Scale.*
   
-- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  *: Installation, configuration, test et sécurisation d'un NAS RAID5.*
+- [**💾Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5)  *: Installation, configuration, test et sécurisation d'un NAS RAID5.*
   
-- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  *: Installation, configuration, test et sécurisation d'un serveur VOIP.*
+- [**📞Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP)  *: Installation, configuration, test et sécurisation d'un serveur VOIP.*
 
-- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git)  *: Déploiement d'un serveur LDAP*
+- [**📒Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git)  *: Déploiement d'un serveur LDAP*
 
-- [**VPN**](https://github.com/leon-camuzat/VPN.git)  *: Déploiement d'un VPN.*
+- [**🔐VPN**](https://github.com/leon-camuzat/VPN.git)  *: Déploiement d'un VPN.*
   
-- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)  *: Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
+- [**🐧Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh)  *: Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.*
 
-- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git)  *: Edition de scripts Shell & Python*
+- [**📜Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git)  *: Edition de scripts Shell & Python*
 
-- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git)  *: Introduction à l'interface en ligne de commande Shell*
+- [**🐚Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git)  *: Introduction à l'interface en ligne de commande Shell*
 
-- [**Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)  *: Simulation d'une Gateway et simulation d'envois de paquets de données.*
+- [**🌐Cisco Packet Tracer : Gateway**](https://github.com/leon-camuzat/Cisco_Gateway)  *: Simulation d'une Gateway et simulation d'envois de paquets de données.*
 
-- [**Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)  *: Déploiement serveur DHCP pour attribution automatique d’adresses IP.*
+- [**🌐Cisco Packet Tracer : DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur)  *: Déploiement serveur DHCP pour attribution automatique d’adresses IP.*
 
-- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot)  *: Configuration d'un dual-boot Windows/Linux via VMware Workstation Pro.*
+- [**🖥️Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot)  *: Configuration d'un dual-boot Windows/Linux via VMware Workstation Pro.*
 
 ---
 
