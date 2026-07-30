@@ -32,7 +32,7 @@
 
 ### 🎓 2 ème année - Licence d'Administrateur d'Infrastructure Réseaux Sécurisés
 
-- [**🔷Terraform**](https://github.com/leon-camuzat/Terraform.git) *: Automatisation du déploiement d'une VM Debian 13 sur VMWare Wrokstation et déploiement d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap*
+- [**🔷Terraform**](https://github.com/leon-camuzat/Terraform.git) *: Automatisation du déploiement d'une VM Debian 13 sur VMWare Wrokstation et déploiement d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap.*
 
 - [**🐳Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
 
