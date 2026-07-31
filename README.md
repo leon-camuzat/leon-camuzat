@@ -117,6 +117,10 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **IA & Assistants** :  
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+  ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
+  
 
 ---
 
