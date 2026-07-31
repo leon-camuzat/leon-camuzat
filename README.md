@@ -1,6 +1,6 @@
 ### 👋 Bienvenue sur mon GitHub !
 
-Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io) et alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber.
+Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io) et alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber.
 
 ---
 
@@ -18,32 +18,48 @@ Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de L
 
 **Systèmes**
 
-- [**Security Log Monitor**](https://github.com/leon-camuzat/PSMM) — Scripts Python via SSH pour monitorer 3 serveurs Debian (FTP, Web, MariaDB) : collecte des tentatives d'accès échouées, stockage en base MariaDB et envoi de rapports automatique par mail.
+- [**Security Log Monitor**](https://github.com/leon-camuzat/PSMM) — Scripts Python via SSH pour monitorer 3 serveurs Debian (FTP, Web, MariaDB) : collecte des tentatives d'accès échouées, stockage en base MariaDB et envoi de rapports automatiques par mail.
 - [**Holodeck**](https://github.com/leon-camuzat/Holodeck) — Déploiement d'un serveur web multi-services sur VM Debian : Nginx HTTPS, PHP, MariaDB, FTP SSL/TLS, DHCP/DNS, annuaire LDAP pour l'authentification et pare-feu configuré.
 
 **Cloud**
 
 - [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) — Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
-- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — dministration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3
-  
+- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
+
+---
+
 #### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 
-- [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) — Analyse de trames réseau et documentation technique.
-- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) — Documentation technique du projet Mini Lab.
-- [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) — Installation, configuration et sécurisation d'un bastion avec portail Guacamole.
-- [**Windows Server - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) — Installation, configuration et sécurisation d'un serveur Windows Server PXE.
-- [**Windows Server - AD**](https://github.com/leon-camuzat/WIndows_Server_AD.git) — Installation, configuration et sécurisation d'un serveur Active Directory.
-- [**TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git) — Déploiement d'un serveur de stockage TrueNAS Scale avec RAIDZ2 et sauvegarde automatisée.
-- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5) — Mise en place d'un NAS RAID5 avec partages SFTP, Samba et WebDAV.
-- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP) — Installation et sécurisation d'un serveur VOIP avec Asterisk et Kamailio.
-- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git) — Déploiement et configuration d'un serveur LDAP.
-- [**VPN**](https://github.com/leon-camuzat/VPN.git) — Déploiement et sécurisation d'un VPN.
-- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh) — Déploiement d'un serveur DHCP, DNS et SFTP pour transferts chiffrés via SSH.
-- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) — Édition de scripts Shell et Python pour l'administration système.
-- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git) — Introduction à l'interface en ligne de commande Shell.
-- [**Cisco Packet Tracer - Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) — Simulation d'une Gateway et envois de paquets de données.
-- [**Cisco Packet Tracer - DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) — Déploiement d'un serveur DHCP pour attribution automatique d'adresses IP.
-- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot) — Configuration d'un dual-boot Windows/Linux via VMware Workstation Pro.
+**Sécurité**
+
+- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) — Déploiement d'une infrastructure réseau complète : serveur NFS en RAID5, DHCP/DNS/LDAP en master/slave avec failover, pare-feu, VPN et authentification PAM-LDAP pour profils itinérants.
+- [**Bastion — Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) — Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
+- [**VPN**](https://github.com/leon-camuzat/VPN.git) — Déploiement d'un serveur OpenVPN sur Debian : génération de certificats via easy-rsa, chiffrement AES et configuration client/serveur sur maquette VM.
+- [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) — Analyse de trames réseau avec Wireshark : capture de paquets ARP, UDP et TCP, désencapsulation selon le modèle OSI, filtrage avancé et analyse de protocoles (DHCP, DNS, FTP, HTTPS, SMB).
+
+**Windows Server**
+
+- [**Windows Server — Active Directory**](https://github.com/leon-camuzat/WIndows_Server_AD.git) — Installation de Windows Server 2025 sur VMware : configuration DHCP, DNS et Active Directory, création d'OUs, groupes avec nesting, dossiers partagés avec droits SMB/NTFS, GPOs, mapping de lecteurs réseau et import d'utilisateurs via script CSV.
+- [**Windows Server — PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) — Déploiement d'images Windows via réseau : installation WDS/ADK, création d'images WinPE personnalisées, déploiement PXE et configuration d'un serveur TFTP open source.
+
+**Stockage**
+
+- [**TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git) — Serveur TrueNAS Scale avec RAIDZ2 : partages Samba, SFTP et WebDAV, VaultWarden, sauvegarde automatisée via Rsync et VM hébergée sur le serveur.
+- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5) — NAS Debian en RAID5 : partages SFTP, Samba et WebDAV, simulation de perte/récupération de disque, alertes email, sauvegarde automatique sur second NAS et interface Cockpit.
+
+**Réseau & Services**
+
+- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git) — Déploiement d'un serveur OpenLDAP : création de groupes et utilisateurs, sécurisation avec le module ppolicy (politique de mots de passe) et authentification FTP via LDAP.
+- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP) — Installation et configuration d'Asterisk sur Debian compilé depuis les sources : configuration SIP, plan d'appel et tests d'appels entre softphones.
+- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh) — Déploiement de 2 VMs Debian : serveur DHCP/DNS pour attribution automatique d'adresses IP et serveur SFTP/SSH pour transferts de fichiers chiffrés.
+- [**Cisco Packet Tracer — Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) — Simulation d'une Gateway sous Cisco Packet Tracer : interconnexion de 2 réseaux via un routeur, configuration des interfaces et test de connectivité par ping.
+- [**Cisco Packet Tracer — DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) — Simulation d'un réseau DHCP sous Cisco Packet Tracer : câblage de 3 PCs, 1 switch et 1 serveur avec attribution automatique d'adresses IP.
+
+**Systèmes & Scripting**
+
+- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) — Pratique des commandes Linux avancées sur Debian : recherche de fichiers, compression tar/gzip, manipulation de données avec awk et Python, gestion des processus et surveillance des ressources système.
+- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git) — Prise en main de l'interface en ligne de commande sous Debian : commandes Linux, gestion de fichiers et scripts Bash.
+- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot) — Configuration d'un dual-boot Windows/Debian sur VMware Workstation Pro.
 
 ---
 
