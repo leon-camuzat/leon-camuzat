@@ -8,12 +8,16 @@ Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de L
 
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 
+**DevOps & Automatisation**
+
 - [**Terraform**](https://github.com/leon-camuzat/Terraform.git) — Automatisation du déploiement d'une VM Debian 13 sur VMware Workstation et d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap.
 - [**Ansible**](https://github.com/leon-camuzat/Ansible.git) — Automatisation sans agent de la configuration et du hardening de 3 serveurs Linux : durcissement SSH, pare-feu UFW et gestion des services via playbooks.
 - [**Kubernetes**](https://github.com/leon-camuzat/Kubernetes.git) — Montage d'un cluster K3S sur 3 VMs Debian (1 master, 2 workers), déploiement d'applications conteneurisées via YAML (Nginx, Apache, MariaDB), haute disponibilité avec replicas, stockage persistant, ConfigMaps, Secrets, RBAC et gestion via Helm.
-- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) — Déploiement d'un cluster Docker Swarm de 7 VMs Debian (3 managers Raft, 3 workers, 1 serveur NFS) pour la continuité d'activité : services conteneurisés (Registry, MariaDB, PHP, Nginx, VSCode Server), supervision via Portainer, Prometheus et Grafana, validation par 3 tests PCA/PRA (self-healing, redistribution de nœud, élection de leader Raft).
+- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) — Déploiement d'un cluster Docker Swarm de 7 VMs Debian (3 managers Raft, 3 workers, 1 serveur NFS) pour la continuité d'activité : services conteneurisés (Registry, MariaDB, PHP, Nginx, VSCode Server), supervision via Portainer, Prometheus et Grafana, validation par 3 tests PCA/PRA.
 - [**Docker**](https://github.com/leon-camuzat/Docker.git) — Prise en main de Docker sur VM Debian : installation, commandes de base, création d'images personnalisées via Dockerfile.
-- 
+
+**Cloud**
+
 - [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) — Documentation technique sur Azure Active Directory.
 - [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Documentation technique sur Amazon Web Services.
 
