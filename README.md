@@ -1,8 +1,6 @@
 ### 👋 Bienvenue sur mon GitHub !
 
-Étudiant en 3ème année Licence AIS (Administrateur d'Infrastructures Sécurisées) à [La Plateforme](https://laplateforme.io), une école basée sur la pédagogie par projets.
-
-Actuellement en alternance à la **Ville de Marseille** au sein de l'équipe sécurité de la DSI : administration de la console EDR, rapports SOC analyst, gestion ITSM et résolution de tickets, développement d'un bastion Apache Web Guacamole.
+Étudiant en 3ème année Licence AIS (Administrateur d'Infrastructures Sécurisées) à [La Plateforme](https://laplateforme.io) et actuellement en alternance à la **Ville de Marseille** au sein de l'équipe sécurité de la DSI : administration de la console EDR, rapports SOC analyst, gestion ITSM et résolution de tickets, développement d'un bastion Apache Web Guacamole.
 
 ---
 
