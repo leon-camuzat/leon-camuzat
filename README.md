@@ -4,7 +4,7 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ---
 
-### 💼 Expérience - DSI Ville de Marseille
+### 💼 Expérience - Ville de Marseille
 
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(2025 – présent)*  
 Administration de la console EDR, analyse SOC, gestion ITSM et développement d'un bastion Apache Guacamole avec intégration Active Directory.
