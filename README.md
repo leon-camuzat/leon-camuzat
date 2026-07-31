@@ -19,8 +19,8 @@ Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de L
 **Cloud**
 
 - [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) — Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
-- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Documentation technique sur Amazon Web Services.
-
+- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — dministration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3
+  
 #### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) — Analyse de trames réseau et documentation technique.
