@@ -88,6 +88,14 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
 
 ---
 
+### 🎧 Culture Tech
+
+- [Underscore_](https://www.youtube.com/@_Underscore_)
+- [IT Connect](https://www.it-connect.fr/)
+- [NoLimitSecu](https://www.nolimitsecu.fr/)
+
+---
+
 ### 🛠️ Compétences
 
 - **DevOps & Automatisation** :  
@@ -121,15 +129,6 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
   
-
----
-
-### 🎧 Culture Tech
-
-- [Underscore_](https://www.youtube.com/@_Underscore_)
-- [IT Connect](https://www.it-connect.fr/)
-- [NoLimitSecu](https://www.nolimitsecu.fr/)
-
 ---
 
 
