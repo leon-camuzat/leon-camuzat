@@ -1,6 +1,6 @@
 ### 👋 Bienvenue sur mon GitHub !
 
-Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io) et alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe sécurité je suis passionné de cybersécurité et de Linux.
+Passionné de Cybersécurité et de Linux je suis étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io) et alternant sécurité du SI à la DSI **Ville de Marseille**.
 
 ---
 
