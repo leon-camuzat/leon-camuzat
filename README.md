@@ -34,7 +34,7 @@
 
 - [**🔷Terraform**](https://github.com/leon-camuzat/Terraform.git) *: Automatisation du déploiement d'une VM Debian 13 sur VMWare Wrokstation et déploiement d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap.*
 
-- [**🤖Ansible**](https://github.com/leon-camuzat/Ansible.git ) *: Automatisation sans agent de la configuration et du hardening de 3 serveurs Linux : durcissement SSH, pare-feu UFW et gestion des services via playbooks.*
+- [**🤖Ansible**](https://github.com/leon-camuzat/Ansible.git ) *: Automatisation sans agent de la configuration avec clés SSH de 3 serveurs Linux.*
 
 - [**🐳Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
 
