@@ -6,7 +6,7 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
 
 ### 💼 Expérience - Ville de Marseille
 
-**Alternant Sécurité du SI** - DSI Ville de Marseille *(2025 – présent)*  
+**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
 
 - Administration de la console EDR
 - Analyse SOC
