@@ -8,8 +8,8 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(2025 – présent)*  
 
-- Administration de la console EDR,
-- Analyse SOC,
+- Administration de la console EDR
+- Analyse SOC
 - Gestion ITSM
 - Développement d'un bastion Apache Guacamole avec intégration Active Directory
 - Activation de Clé RGS**
