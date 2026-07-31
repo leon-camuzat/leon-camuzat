@@ -122,9 +122,9 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ### 🎧 Culture Tech
 
-- [Underscore_](https://www.youtube.com/@_Underscore_) — Vulgarisation tech & sécu |
-- [IT Connect](https://www.it-connect.fr/) — Tutoriels sysadmin & réseau |
-- [NoLimitSecu](https://www.nolimitsecu.fr/) — La référence cybersécurité française |
+- [Underscore_](https://www.youtube.com/@_Underscore_)
+- [IT Connect](https://www.it-connect.fr/)
+- [NoLimitSecu](https://www.nolimitsecu.fr/)
 
 ---
 
