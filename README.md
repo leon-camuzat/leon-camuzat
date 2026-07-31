@@ -63,13 +63,6 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ---
 
-### 🤝 Projets Collaboratifs
-
-- [**Serveur NAS RAID5**](https://github.com/panharidh-ly/Nas-serveur.git) — Participation à un projet collaboratif autour d'un serveur NAS RAID5.
-- [**Serveur VOIP**](https://github.com/panharidh-ly/Voip-Server) — Participation à un projet collaboratif autour de serveurs VOIP.
-
----
-
 ### 🌐 Développement Web
 
 - [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git) — Développement et conception de mon portfolio.
@@ -117,12 +110,9 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ### 🎧 Culture Tech
 
-| | |
-|---|---|
-| 🎙️ | [NoLimitSecu](https://www.nolimitsecu.fr/) — La référence cybersécurité française |
-| 📺 | [Underscore_](https://www.youtube.com/@_Underscore_) — Vulgarisation tech & sécu |
-| 🔍 | [French Breaches](https://www.frenchbreaches.fr/) — Fuites de données françaises |
-| 📖 | [IT Connect](https://www.it-connect.fr/) — Tutoriels sysadmin & réseau |
+- [Underscore_](https://www.youtube.com/@_Underscore_) — Vulgarisation tech & sécu |
+- [IT Connect](https://www.it-connect.fr/) — Tutoriels sysadmin & réseau |
+- [NoLimitSecu](https://www.nolimitsecu.fr/) — La référence cybersécurité française |
 
 ---
 
