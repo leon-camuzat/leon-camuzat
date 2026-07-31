@@ -85,22 +85,31 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ### 🛠️ Compétences
 
+- **DevOps & Automatisation** :  
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Cloud** :  
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - **Réseaux & Virtualisation** :  
   ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
   ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
 - **Systèmes d'exploitation** :  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 - **Langages** :  
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Outils & Plateformes** :  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -110,7 +119,6 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 - [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
 - [Email](mailto:leon.camuzat@laplateforme.io)
-- 📞 06-02-42-69-72
 
 ---
 
@@ -118,6 +126,15 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
+
+---
+
+### 🎧 Veille & Inspirations
+
+- Podcast : [NoLimitSecu](https://www.nolimitsecu.fr/)
+- YouTube : [Underscore_](https://www.youtube.com/@_Underscore_)
+- Site : [French Breaches](https://www.frenchbreaches.fr/)
+- Tutos : [IT Connect](https://www.it-connect.fr/)
 
 ---
 
