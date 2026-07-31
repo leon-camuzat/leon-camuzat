@@ -1,6 +1,6 @@
 ### 👋 Bienvenue sur mon GitHub !
 
-Étudiant en 3ème année Licence AIS (Administrateur d'Infrastructures Sécurisées) à [La Plateforme](https://laplateforme.io) et actuellement en alternance à la **Ville de Marseille** au sein de l'équipe sécurité de la DSI.
+Étudiant en 3ème année Licence AIS (Administrateur d'Infrastructures Sécurisées) à [La Plateforme](https://laplateforme.io) et alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe sécurité.
 
 ---
 
