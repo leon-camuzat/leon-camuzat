@@ -115,12 +115,25 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ---
 
+### 🎧 Culture Tech
+
+| | |
+|---|---|
+| 🎙️ | [NoLimitSecu](https://www.nolimitsecu.fr/) — La référence cybersécurité française |
+| 📺 | [Underscore_](https://www.youtube.com/@_Underscore_) — Vulgarisation tech & sécu |
+| 🔍 | [French Breaches](https://www.frenchbreaches.fr/) — Fuites de données françaises |
+| 📖 | [IT Connect](https://www.it-connect.fr/) — Tutoriels sysadmin & réseau |
+
+---
+
+
 ### 📬 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
 - [Email](mailto:leon.camuzat@laplateforme.io)
 
 ---
+
 
 ### 📊 Activité GitHub
 
@@ -129,13 +142,5 @@ Passionné de Cybersécurité et de Linux, je suis étudiant en 3ème année de 
 
 ---
 
-### 🎧 Veille & Inspirations
-
-- Podcast : [NoLimitSecu](https://www.nolimitsecu.fr/)
-- YouTube : [Underscore_](https://www.youtube.com/@_Underscore_)
-- Site : [French Breaches](https://www.frenchbreaches.fr/)
-- Tutos : [IT Connect](https://www.it-connect.fr/)
-
----
 
 **Merci de visiter mon profil ! N'hésitez pas à me contacter.** 👋
