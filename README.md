@@ -36,6 +36,8 @@
 
 - [**🤖Ansible**](https://github.com/leon-camuzat/Ansible.git ) *: Automatisation sans agent de la configuration avec clés SSH de 3 serveurs Linux.*
 
+- [**☸️Kubernetes**](https://github.com/leon-camuzat/Kubernetes.git) *: Montage d'un cluster K3S sur 3 VMs Debian (1 master, 2 workers), déploiement d'applications conteneurisées via YAML (Nginx, Apache, MariaDB), haute disponibilité avec replicas, stockage persistant, ConfigMaps, Secrets, RBAC et gestion via Helm.*
+
 - [**🐳Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) *: Déploiement d'un Cluster avec Docker Swarm.*
 
 - [**🐳Docker**](https://github.com/leon-camuzat/Docker.git)  *: Introduction à Docker.*
