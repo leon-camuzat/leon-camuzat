@@ -106,6 +106,9 @@
 - [IT Connect](https://www.it-connect.fr/)
 - [NoLimitSecu](https://www.nolimitsecu.fr/)
 ---
+### 🧪 Projets Personnels
+*À venir...*
+---
 ### 📊 Activité GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
