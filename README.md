@@ -52,8 +52,7 @@
 - ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
 ---
 ### 🧪 Projets Personnels
-#### 🎮 [Control_Station](https://github.com/leon-camuzat/Control_Station) — 
-Environnement de travail personnel pour architecte réseau
+#### 🎮 [Control_Station](https://github.com/leon-camuzat/Control_Station) — Environnement de travail personnel pour architecte réseau
 Dashboard Electron local centralisant tous mes projets (école, alternance, MOOCs, certifications) avec Claude contextualisé via Cowork et n8n comme colonne vertébrale d'orchestration.
 
 ---
