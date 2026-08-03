@@ -1,7 +1,5 @@
 ### 👋 Bienvenue sur mon GitHub !
-
 *Passionné de Cybersécurité (et de linux), je suis alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber et étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io).*
-
 ---
 ### 🛠️ Compétences
 - **DevOps & Automatisation** :  
@@ -35,14 +33,6 @@
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
 ---
-### 💼 Expérience - Ville de Marseille
-**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
-- Administration de la console EDR
-- Analyse SOC
-- Gestion ITSM
-- Développement d'un bastion Apache Guacamole avec intégration Active Directory
-- Activation de Clé RGS**
----
 ### 📜 Certifications & MOOC
 #### 🏅 Certifications
 - ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
@@ -50,6 +40,14 @@
 #### 🎓 MOOC
 - ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white) **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
 - ![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white) **[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
+---
+### 💼 Expérience - Ville de Marseille
+**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
+- Administration de la console EDR
+- Analyse SOC
+- Gestion ITSM
+- Développement d'un bastion Apache Guacamole avec intégration Active Directory
+- Activation de Clé RGS**
 ---
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
@@ -94,23 +92,24 @@
 - [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) — Pratique des commandes Linux avancées sur Debian : recherche de fichiers, compression tar/gzip, manipulation de données avec awk et Python, gestion des processus et surveillance des ressources système.
 - [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git) — Prise en main de l'interface en ligne de commande sous Debian : commandes Linux, gestion de fichiers et scripts Bash.
 - [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot) — Configuration d'un dual-boot Windows/Debian sur VMware Workstation Pro.
----
-### 🌐 Développement Web
+
+**Développement Web**
 - [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git) — Développement et conception de mon portfolio.
 - [**Fan-site — La Femme**](https://github.com/leon-camuzat/fan_site) — Création d'un site réactif dédié au groupe musical La Femme.
----
-### 🐍 Développement Python
+
+**Développement Python**
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
 ---
 ### 🧪 Projets Personnels — Station de Travail
 - [**ST — Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
-- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort.
+- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort bancaire.
 - [**ST — Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) — Mise en place des VMs et du réseau local.
 - [**ST — Config IA**](https://github.com/leon-camuzat/Station_de_Travail) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
 - [**ST — n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) — Pont local entre les outils du poste Windows et Claude AI.
 - [**ST — Anonymisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage des données avant envoi à l'API Claude (RGPD).
 - [**ST — Dashboard**](https://github.com/leon-camuzat/Station_de_Travail) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
 - [**ST — Vaultwarden**](https://github.com/leon-camuzat/Station_de_Travail) — Gestionnaire de mots de passe auto-hébergé sur Windows via Docker Desktop.
+- [**ST — Lab Bastion**](https://github.com/leon-camuzat/Station_de_Travail) — Infrastructure réseau complète : FW, Bastion, XRDP, AD, NAS, Web interne.
 ---
 ### 🎧 Culture Tech
 - [Underscore_](https://www.youtube.com/@_Underscore_)
