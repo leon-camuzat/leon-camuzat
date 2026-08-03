@@ -37,7 +37,7 @@
 ---
 ### 📜 Certifications
 ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
-- **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur le Règlement Général sur la Protection des Données (RGPD) délivrée par la CNIL.
+- **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
 ---
 ### 💼 Expérience - Ville de Marseille
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
