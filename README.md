@@ -103,15 +103,14 @@
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
 ---
 ### 🧪 Projets Personnels — Station de Travail
-- 🧹 [**Station de Travail — Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
-- 💾 [**Station de Travail — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort bancaire.
-- 🖥️ [**Station de Travail — Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) — Mise en place des VMs et du réseau local.
-- 🤖 [**Station de Travail — Config IA**](https://github.com/leon-camuzat/Station_de_Travail) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
-- ⚙️ [**Station de Travail — n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) — Pont local entre les outils du poste Windows et Claude AI.
-- 🔐 [**Station de Travail — Anonymisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage des données avant envoi à l'API Claude (RGPD).
-- 📊 [**Station de Travail — Dashboard**](https://github.com/leon-camuzat/Station_de_Travail) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
-- 🗝️ [**Station de Travail — Vaultwarden**](https://github.com/leon-camuzat/Station_de_Travail) — Gestionnaire de mots de passe auto-hébergé sur Windows via Docker Desktop.
-- 🏰 [**Station de Travail — Lab Bastion**](https://github.com/leon-camuzat/Station_de_Travail) — Infrastructure réseau complète : FW, Bastion, XRDP, AD, NAS, Web interne.
+- [**ST — Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
+- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort bancaire.
+- [**ST — Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) — Mise en place des VMs et du réseau local.
+- [**ST — Config IA**](https://github.com/leon-camuzat/Station_de_Travail) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
+- [**ST — n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) — Pont local entre les outils du poste Windows et Claude AI.
+- [**ST — Anonymisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage des données avant envoi à l'API Claude (RGPD).
+- [**ST — Dashboard**](https://github.com/leon-camuzat/Station_de_Travail) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
+- [**ST — Vaultwarden**](https://github.com/leon-camuzat/Station_de_Travail) — Gestionnaire de mots de passe auto-hébergé sur Windows via Docker Desktop.
 ---
 ### 🎧 Culture Tech
 - [Underscore_](https://www.youtube.com/@_Underscore_)
