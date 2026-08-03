@@ -51,11 +51,6 @@
 - ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
 - ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
 ---
-### 🧪 Projets Personnels
-#### 🎮 [Control_Station](https://github.com/leon-camuzat/Control_Station) — Environnement de travail personnel pour architecte réseau
-Dashboard Electron local centralisant tous mes projets (école, alternance, MOOCs, certifications) avec Claude contextualisé via Cowork et n8n comme colonne vertébrale d'orchestration.
-
----
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **DevOps & Automatisation**
@@ -112,6 +107,13 @@ Dashboard Electron local centralisant tous mes projets (école, alternance, MOOC
 - [IT Connect](https://www.it-connect.fr/)
 - [NoLimitSecu](https://www.nolimitsecu.fr/)
 ---
+### 🧪 Projets Personnels
+- 💾 [**Control_Station — Backup**](https://github.com/leon-camuzat/Control_Station) — Sauvegarde automatisée des données critiques sur clé USB et coffre-fort chiffré.
+- 🖥️ [**Control_Station — Infrastructure VMware**](https://github.com/leon-camuzat/Control_Station) — Mise en place des VMs et du réseau local.
+- ⚙️ [**Control_Station — n8n**](https://github.com/leon-camuzat/Control_Station) — Déploiement et exposition de n8n sur le réseau local via Docker Compose.
+- 🤖 [**Control_Station — Config IA**](https://github.com/leon-camuzat/Control_Station) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
+- 🔐 [**Control_Station — Anonymisation**](https://github.com/leon-camuzat/Control_Station) — Nettoyage des données avant envoi à l'API Claude (RGPD).
+- 📊 [**Control_Station — Dashboard**](https://github.com/leon-camuzat/Control_Station) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
 ### 📊 Activité GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
