@@ -51,6 +51,10 @@
 - ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
 - ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
 ---
+### 🧪 Projets Personnels
+#### 🎮 [Control_Station](https://github.com/leon-camuzat/Control_Station) — Environnement de travail personnel pour architecte réseau
+Dashboard Electron local centralisant tous mes projets (école, alternance, MOOCs, certifications) avec Claude contextualisé via Cowork et n8n comme colonne vertébrale d'orchestration.
+---
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **DevOps & Automatisation**
@@ -106,9 +110,6 @@
 - [Underscore_](https://www.youtube.com/@_Underscore_)
 - [IT Connect](https://www.it-connect.fr/)
 - [NoLimitSecu](https://www.nolimitsecu.fr/)
----
-### 🧪 Projets Personnels
-*À venir...*
 ---
 ### 📊 Activité GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
