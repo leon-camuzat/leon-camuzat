@@ -102,11 +102,6 @@
 ### 🐍 Développement Python
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
 ---
-### 🎧 Culture Tech
-- [Underscore_](https://www.youtube.com/@_Underscore_)
-- [IT Connect](https://www.it-connect.fr/)
-- [NoLimitSecu](https://www.nolimitsecu.fr/)
----
 ### 🧪 Projets Personnels
 - 💾 [**Control_Station — Backup**](https://github.com/leon-camuzat/Control_Station) — Sauvegarde automatisée des données critiques sur clé USB et coffre-fort chiffré.
 - 🖥️ [**Control_Station — Infrastructure VMware**](https://github.com/leon-camuzat/Control_Station) — Mise en place des VMs et du réseau local.
@@ -114,6 +109,11 @@
 - 🤖 [**Control_Station — Config IA**](https://github.com/leon-camuzat/Control_Station) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
 - 🔐 [**Control_Station — Anonymisation**](https://github.com/leon-camuzat/Control_Station) — Nettoyage des données avant envoi à l'API Claude (RGPD).
 - 📊 [**Control_Station — Dashboard**](https://github.com/leon-camuzat/Control_Station) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
+---
+### 🎧 Culture Tech
+- [Underscore_](https://www.youtube.com/@_Underscore_)
+- [IT Connect](https://www.it-connect.fr/)
+- [NoLimitSecu](https://www.nolimitsecu.fr/)
 ---
 ### 📊 Activité GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
