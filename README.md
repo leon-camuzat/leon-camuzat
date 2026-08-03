@@ -35,26 +35,6 @@
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
 ---
-#### 🎓 MOOC
-
-![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
-
-- **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
-
-![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white)
-
-- **[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
-
-#### 🏅 Certifications
-
-![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
-
-- **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
-
-![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
-
-- **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
----
 ### 💼 Expérience - Ville de Marseille
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
 - Administration de la console EDR
@@ -63,6 +43,14 @@
 - Développement d'un bastion Apache Guacamole avec intégration Active Directory
 - Activation de Clé RGS**
 ---
+#### 🎓 MOOC
+- ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white) **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
+- ![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white) **[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
+
+#### 🏅 Certifications
+- ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
+- ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
+  
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **DevOps & Automatisation**
