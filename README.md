@@ -42,7 +42,6 @@
 #### 🏅 Certifications
 ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
 - **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité (en cours).
-
 ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
 - **[LPIC-2 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** — Noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (en cours).
 ---
