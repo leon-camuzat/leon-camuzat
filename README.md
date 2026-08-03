@@ -103,12 +103,12 @@
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
 ---
 ### 🧪 Projets Personnels
-- 💾 [**Control_Station — Backup**](https://github.com/leon-camuzat/Control_Station) — Sauvegarde automatisée des données critiques sur clé USB et coffre-fort chiffré.
-- 🖥️ [**Control_Station — Infrastructure VMware**](https://github.com/leon-camuzat/Control_Station) — Mise en place des VMs et du réseau local.
-- ⚙️ [**Control_Station — n8n**](https://github.com/leon-camuzat/Control_Station) — Déploiement et exposition de n8n sur le réseau local via Docker Compose.
-- 🤖 [**Control_Station — Config IA**](https://github.com/leon-camuzat/Control_Station) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
-- 🔐 [**Control_Station — Anonymisation**](https://github.com/leon-camuzat/Control_Station) — Nettoyage des données avant envoi à l'API Claude (RGPD).
-- 📊 [**Control_Station — Dashboard**](https://github.com/leon-camuzat/Control_Station) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
+- [**Control_Station — Backup**](https://github.com/leon-camuzat/Control_Station) — Sauvegarde automatisée des données critiques sur clé USB et coffre-fort chiffré.
+- [**Control_Station — Infrastructure VMware**](https://github.com/leon-camuzat/Control_Station) — Mise en place des VMs et du réseau local.
+- [**Control_Station — n8n**](https://github.com/leon-camuzat/Control_Station) — Déploiement et exposition de n8n sur le réseau local via Docker Compose.
+- [**Control_Station — Config IA**](https://github.com/leon-camuzat/Control_Station) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
+- [**Control_Station — Anonymisation**](https://github.com/leon-camuzat/Control_Station) — Nettoyage des données avant envoi à l'API Claude (RGPD).
+- [**Control_Station — Dashboard**](https://github.com/leon-camuzat/Control_Station) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
 ---
 ### 🎧 Culture Tech
 - [Underscore_](https://www.youtube.com/@_Underscore_)
