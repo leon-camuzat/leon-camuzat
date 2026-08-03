@@ -110,5 +110,6 @@
 ### 📬 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
 - [Email](mailto:leon.camuzat@laplateforme.io)
+- [Portfolio](https://leon-camuzat.github.io/mon_portfolio)
 ---
 **Merci de visiter mon profil ! N'hésitez pas à me contacter.** 👋
