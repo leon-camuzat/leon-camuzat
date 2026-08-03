@@ -114,6 +114,7 @@
 - 🤖 [**Control_Station — Config IA**](https://github.com/leon-camuzat/Control_Station) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
 - 🔐 [**Control_Station — Anonymisation**](https://github.com/leon-camuzat/Control_Station) — Nettoyage des données avant envoi à l'API Claude (RGPD).
 - 📊 [**Control_Station — Dashboard**](https://github.com/leon-camuzat/Control_Station) — Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
+---
 ### 📊 Activité GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
