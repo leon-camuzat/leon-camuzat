@@ -88,20 +88,6 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
 
 ---
 
-### 🎧 Culture Tech
-
-- [Underscore_](https://www.youtube.com/@_Underscore_)
-- [IT Connect](https://www.it-connect.fr/)
-- [NoLimitSecu](https://www.nolimitsecu.fr/)
-
----
-
-### 📜 Certifications
-![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
-- **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur le Règlement Général sur la Protection des Données (RGPD) délivrée par la CNIL.
-
----
-
 ### 🛠️ Compétences
 
 - **DevOps & Automatisation** :  
@@ -135,6 +121,21 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
   
+---
+
+
+### 📜 Certifications
+![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
+- **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur le Règlement Général sur la Protection des Données (RGPD) délivrée par la CNIL.
+
+---
+
+### 🎧 Culture Tech
+
+- [Underscore_](https://www.youtube.com/@_Underscore_)
+- [IT Connect](https://www.it-connect.fr/)
+- [NoLimitSecu](https://www.nolimitsecu.fr/)
+
 ---
 
 
