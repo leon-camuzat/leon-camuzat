@@ -104,7 +104,7 @@
 ---
 ### 🧪 Projets Personnels — Station de Travail
 - [**ST — Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) — Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
-- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort bancaire.
+- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) — Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort.
 - [**ST — Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) — Mise en place des VMs et du réseau local.
 - [**ST — Config IA**](https://github.com/leon-camuzat/Station_de_Travail) — Connexion Claude API sur n8n, system prompt et switch_mode.sh.
 - [**ST — n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) — Pont local entre les outils du poste Windows et Claude AI.
