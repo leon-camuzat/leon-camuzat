@@ -1,95 +1,7 @@
 ### 👋 Bienvenue sur mon GitHub !
-
 Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber et étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io).
-
 ---
-
-### 💼 Expérience - Ville de Marseille
-
-**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
-
-- Administration de la console EDR
-- Analyse SOC
-- Gestion ITSM
-- Développement d'un bastion Apache Guacamole avec intégration Active Directory
-- Activation de Clé RGS**
-
----
-
-### 🚀 Projets — La Plateforme
-
-#### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
-
-**DevOps & Automatisation**
-
-- [**Terraform**](https://github.com/leon-camuzat/Terraform.git) — Automatisation du déploiement d'une VM Debian 13 sur VMware Workstation et d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap.
-- [**Ansible**](https://github.com/leon-camuzat/Ansible.git) — Automatisation sans agent de la configuration et du hardening de 3 serveurs Linux : durcissement SSH, pare-feu UFW et gestion des services via playbooks.
-- [**Kubernetes**](https://github.com/leon-camuzat/Kubernetes.git) — Montage d'un cluster K3S sur 3 VMs Debian (1 master, 2 workers), déploiement d'applications conteneurisées via YAML (Nginx, Apache, MariaDB), haute disponibilité avec replicas, stockage persistant, ConfigMaps, Secrets, RBAC et gestion via Helm.
-- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) — Déploiement d'un cluster Docker Swarm de 7 VMs Debian (3 managers Raft, 3 workers, 1 serveur NFS) pour la continuité d'activité : services conteneurisés (Registry, MariaDB, PHP, Nginx, VSCode Server), supervision via Portainer, Prometheus et Grafana, validation par 3 tests PCA/PRA.
-- [**Docker**](https://github.com/leon-camuzat/Docker.git) — Prise en main de Docker sur VM Debian : installation, commandes de base, création d'images personnalisées via Dockerfile.
-
-**Systèmes**
-
-- [**Security Log Monitor**](https://github.com/leon-camuzat/PSMM) — Scripts Python via SSH pour monitorer 3 serveurs Debian (FTP, Web, MariaDB) : collecte des tentatives d'accès échouées, stockage en base MariaDB et envoi de rapports automatiques par mail.
-- [**Holodeck**](https://github.com/leon-camuzat/Holodeck) — Déploiement d'un serveur web multi-services sur VM Debian : Nginx HTTPS, PHP, MariaDB, FTP SSL/TLS, DHCP/DNS, annuaire LDAP pour l'authentification et pare-feu configuré.
-
-**Cloud**
-
-- [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) — Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
-- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
-
----
-
-#### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
-
-**Sécurité**
-
-- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) — Déploiement d'une infrastructure réseau complète : serveur NFS en RAID5, DHCP/DNS/LDAP en master/slave avec failover, pare-feu, VPN et authentification PAM-LDAP pour profils itinérants.
-- [**Bastion — Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) — Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
-- [**VPN**](https://github.com/leon-camuzat/VPN.git) — Déploiement d'un serveur OpenVPN sur Debian : génération de certificats via easy-rsa, chiffrement AES et configuration client/serveur sur maquette VM.
-- [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) — Analyse de trames réseau avec Wireshark : capture de paquets ARP, UDP et TCP, désencapsulation selon le modèle OSI, filtrage avancé et analyse de protocoles (DHCP, DNS, FTP, HTTPS, SMB).
-
-**Windows Server**
-
-- [**Windows Server — Active Directory**](https://github.com/leon-camuzat/WIndows_Server_AD.git) — Installation de Windows Server 2025 sur VMware : configuration DHCP, DNS et Active Directory, création d'OUs, groupes avec nesting, dossiers partagés avec droits SMB/NTFS, GPOs, mapping de lecteurs réseau et import d'utilisateurs via script CSV.
-- [**Windows Server — PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) — Déploiement d'images Windows via réseau : installation WDS/ADK, création d'images WinPE personnalisées, déploiement PXE et configuration d'un serveur TFTP open source.
-
-**Stockage**
-
-- [**TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git) — Serveur TrueNAS Scale avec RAIDZ2 : partages Samba, SFTP et WebDAV, VaultWarden, sauvegarde automatisée via Rsync et VM hébergée sur le serveur.
-- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5) — NAS Debian en RAID5 : partages SFTP, Samba et WebDAV, simulation de perte/récupération de disque, alertes email, sauvegarde automatique sur second NAS et interface Cockpit.
-
-**Réseau & Services**
-
-- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git) — Déploiement d'un serveur OpenLDAP : création de groupes et utilisateurs, sécurisation avec le module ppolicy (politique de mots de passe) et authentification FTP via LDAP.
-- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP) — Installation et configuration d'Asterisk sur Debian compilé depuis les sources : configuration SIP, plan d'appel et tests d'appels entre softphones.
-- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh) — Déploiement de 2 VMs Debian : serveur DHCP/DNS pour attribution automatique d'adresses IP et serveur SFTP/SSH pour transferts de fichiers chiffrés.
-- [**Cisco Packet Tracer — Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) — Simulation d'une Gateway sous Cisco Packet Tracer : interconnexion de 2 réseaux via un routeur, configuration des interfaces et test de connectivité par ping.
-- [**Cisco Packet Tracer — DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) — Simulation d'un réseau DHCP sous Cisco Packet Tracer : câblage de 3 PCs, 1 switch et 1 serveur avec attribution automatique d'adresses IP.
-
-**Systèmes & Scripting**
-
-- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) — Pratique des commandes Linux avancées sur Debian : recherche de fichiers, compression tar/gzip, manipulation de données avec awk et Python, gestion des processus et surveillance des ressources système.
-- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git) — Prise en main de l'interface en ligne de commande sous Debian : commandes Linux, gestion de fichiers et scripts Bash.
-- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot) — Configuration d'un dual-boot Windows/Debian sur VMware Workstation Pro.
-
----
-
-### 🌐 Développement Web
-
-- [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git) — Développement et conception de mon portfolio.
-- [**Fan-site — La Femme**](https://github.com/leon-camuzat/fan_site) — Création d'un site réactif dédié au groupe musical La Femme.
-
----
-
-### 🐍 Développement Python
-
-- [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
-
----
-
 ### 🛠️ Compétences
-
 - **DevOps & Automatisation** :  
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -120,39 +32,81 @@ Passionné de Cybersécurité et de Linux, je suis alternant sécurité du SI à
 - **IA & Assistants** :  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
-  
 ---
-
-
 ### 📜 Certifications
 ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
 - **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur le Règlement Général sur la Protection des Données (RGPD) délivrée par la CNIL.
-
 ---
+### 💼 Expérience - Ville de Marseille
+**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
+- Administration de la console EDR
+- Analyse SOC
+- Gestion ITSM
+- Développement d'un bastion Apache Guacamole avec intégration Active Directory
+- Activation de Clé RGS**
+---
+### 🚀 Projets — La Plateforme
+#### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
+**DevOps & Automatisation**
+- [**Terraform**](https://github.com/leon-camuzat/Terraform.git) — Automatisation du déploiement d'une VM Debian 13 sur VMware Workstation et d'un lab cyber avec une VM attaquante et une VM hébergeant un serveur Web, scan des ports d'écoute avec nmap.
+- [**Ansible**](https://github.com/leon-camuzat/Ansible.git) — Automatisation sans agent de la configuration et du hardening de 3 serveurs Linux : durcissement SSH, pare-feu UFW et gestion des services via playbooks.
+- [**Kubernetes**](https://github.com/leon-camuzat/Kubernetes.git) — Montage d'un cluster K3S sur 3 VMs Debian (1 master, 2 workers), déploiement d'applications conteneurisées via YAML (Nginx, Apache, MariaDB), haute disponibilité avec replicas, stockage persistant, ConfigMaps, Secrets, RBAC et gestion via Helm.
+- [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) — Déploiement d'un cluster Docker Swarm de 7 VMs Debian (3 managers Raft, 3 workers, 1 serveur NFS) pour la continuité d'activité : services conteneurisés (Registry, MariaDB, PHP, Nginx, VSCode Server), supervision via Portainer, Prometheus et Grafana, validation par 3 tests PCA/PRA.
+- [**Docker**](https://github.com/leon-camuzat/Docker.git) — Prise en main de Docker sur VM Debian : installation, commandes de base, création d'images personnalisées via Dockerfile.
 
+**Systèmes**
+- [**Security Log Monitor**](https://github.com/leon-camuzat/PSMM) — Scripts Python via SSH pour monitorer 3 serveurs Debian (FTP, Web, MariaDB) : collecte des tentatives d'accès échouées, stockage en base MariaDB et envoi de rapports automatiques par mail.
+- [**Holodeck**](https://github.com/leon-camuzat/Holodeck) — Déploiement d'un serveur web multi-services sur VM Debian : Nginx HTTPS, PHP, MariaDB, FTP SSL/TLS, DHCP/DNS, annuaire LDAP pour l'authentification et pare-feu configuré.
+
+**Cloud**
+- [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) — Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
+- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
+---
+#### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
+**Sécurité**
+- [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) — Déploiement d'une infrastructure réseau complète : serveur NFS en RAID5, DHCP/DNS/LDAP en master/slave avec failover, pare-feu, VPN et authentification PAM-LDAP pour profils itinérants.
+- [**Bastion — Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) — Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
+- [**VPN**](https://github.com/leon-camuzat/VPN.git) — Déploiement d'un serveur OpenVPN sur Debian : génération de certificats via easy-rsa, chiffrement AES et configuration client/serveur sur maquette VM.
+- [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) — Analyse de trames réseau avec Wireshark : capture de paquets ARP, UDP et TCP, désencapsulation selon le modèle OSI, filtrage avancé et analyse de protocoles (DHCP, DNS, FTP, HTTPS, SMB).
+
+**Windows Server**
+- [**Windows Server — Active Directory**](https://github.com/leon-camuzat/WIndows_Server_AD.git) — Installation de Windows Server 2025 sur VMware : configuration DHCP, DNS et Active Directory, création d'OUs, groupes avec nesting, dossiers partagés avec droits SMB/NTFS, GPOs, mapping de lecteurs réseau et import d'utilisateurs via script CSV.
+- [**Windows Server — PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) — Déploiement d'images Windows via réseau : installation WDS/ADK, création d'images WinPE personnalisées, déploiement PXE et configuration d'un serveur TFTP open source.
+
+**Stockage**
+- [**TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git) — Serveur TrueNAS Scale avec RAIDZ2 : partages Samba, SFTP et WebDAV, VaultWarden, sauvegarde automatisée via Rsync et VM hébergée sur le serveur.
+- [**Serveur NAS (RAID5)**](https://github.com/leon-camuzat/Serveur_NAS_RAID5) — NAS Debian en RAID5 : partages SFTP, Samba et WebDAV, simulation de perte/récupération de disque, alertes email, sauvegarde automatique sur second NAS et interface Cockpit.
+
+**Réseau & Services**
+- [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git) — Déploiement d'un serveur OpenLDAP : création de groupes et utilisateurs, sécurisation avec le module ppolicy (politique de mots de passe) et authentification FTP via LDAP.
+- [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP) — Installation et configuration d'Asterisk sur Debian compilé depuis les sources : configuration SIP, plan d'appel et tests d'appels entre softphones.
+- [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh) — Déploiement de 2 VMs Debian : serveur DHCP/DNS pour attribution automatique d'adresses IP et serveur SFTP/SSH pour transferts de fichiers chiffrés.
+- [**Cisco Packet Tracer — Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) — Simulation d'une Gateway sous Cisco Packet Tracer : interconnexion de 2 réseaux via un routeur, configuration des interfaces et test de connectivité par ping.
+- [**Cisco Packet Tracer — DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) — Simulation d'un réseau DHCP sous Cisco Packet Tracer : câblage de 3 PCs, 1 switch et 1 serveur avec attribution automatique d'adresses IP.
+
+**Systèmes & Scripting**
+- [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) — Pratique des commandes Linux avancées sur Debian : recherche de fichiers, compression tar/gzip, manipulation de données avec awk et Python, gestion des processus et surveillance des ressources système.
+- [**Bash Shell**](https://github.com/leon-camuzat/Bash_Shell.git) — Prise en main de l'interface en ligne de commande sous Debian : commandes Linux, gestion de fichiers et scripts Bash.
+- [**Dual-Boot Windows/Linux**](https://github.com/leon-camuzat/Dual_Boot) — Configuration d'un dual-boot Windows/Debian sur VMware Workstation Pro.
+---
+### 🌐 Développement Web
+- [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git) — Développement et conception de mon portfolio.
+- [**Fan-site — La Femme**](https://github.com/leon-camuzat/fan_site) — Création d'un site réactif dédié au groupe musical La Femme.
+---
+### 🐍 Développement Python
+- [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) — Développement d'un jeu de morpion en Python.
+---
 ### 🎧 Culture Tech
-
 - [Underscore_](https://www.youtube.com/@_Underscore_)
 - [IT Connect](https://www.it-connect.fr/)
 - [NoLimitSecu](https://www.nolimitsecu.fr/)
-
 ---
-
-
-### 📬 Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
-- [Email](mailto:leon.camuzat@laplateforme.io)
-
----
-
-
 ### 📊 Activité GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leon-camuzat&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=algolia)
 ![Dernier commit](https://img.shields.io/github/last-commit/leon-camuzat/leon-camuzat?color=blue&label=Dernier%20commit)
-
 ---
-
-
+### 📬 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/leon-camuzat)
+- [Email](mailto:leon.camuzat@laplateforme.io)
+---
 **Merci de visiter mon profil ! N'hésitez pas à me contacter.** 👋
