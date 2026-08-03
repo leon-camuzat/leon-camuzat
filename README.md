@@ -46,8 +46,8 @@
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
 - Administration de la console EDR
 - Analyse SOC
-- Gestion ITSM
 - Bastion Apache Guacamole - Développement & intégration Active Directory
+- Gestion ITSM
 - Activation de Clé RGS**
 ---
 ### 🚀 Projets — La Plateforme
