@@ -47,7 +47,7 @@
 - Administration de la console EDR
 - Analyse SOC
 - Gestion ITSM
-- Développement d'un bastion Apache Guacamole avec intégration Active Directory
+- Bastion Apache Guacamole - Développement & intégration Active Directory
 - Activation de Clé RGS**
 ---
 ### 🚀 Projets — La Plateforme
