@@ -1,5 +1,6 @@
 ### 👋 Bienvenue sur mon GitHub !
 *Passionné de Cybersécurité (et de linux), je suis alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber et étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io).*
+
 ---
 ### 🛠️ Compétences
 - **DevOps & Automatisation** :  
