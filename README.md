@@ -39,7 +39,7 @@
 ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white)
 - **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
 ![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white)
-- **[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
+**[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
 ---
 #### 🏅 Certifications
 ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
