@@ -42,8 +42,6 @@
 #### 🏅 Certifications
 ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_cours-FFA500?style=flat&logo=linux&logoColor=white)
 - **[LPIC-1 — Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** — Certification administrateur Linux (en cours).
-
-Le badge est en orange pour indiquer visuellement que c'est en cours (vs le bleu du CNIL qui est obtenu).
 ---
 ### 💼 Expérience - Ville de Marseille
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
