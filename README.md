@@ -42,11 +42,11 @@
 - ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white) **[MOOC CNIL — L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** — Formation en ligne sur la Règlementation Générale sur la Protection des Données (RGPD) délivrée par la CNIL.
 - ![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white) **[SecNumAcadémie — ANSSI](https://secnumacademie.gouv.fr/)** — MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
 ---
-### 💼 Expérience - Ville de Marseille
-**Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
-- Administration de la console EDR & Analyse SOC
-- Bastion Apache Guacamole - Développement & intégration Active Directory
-- Gestion ITSM & Activation de Clé RGS**
+### 💼 Expérience
+**Alternant Sécurité du SI** — DSI Ville de Marseille *(sept. 2025 – août 2027)*
+- Analyse SOC & administration de la console EDR
+- Développement d'un bastion Apache Guacamole avec intégration Active Directory
+- Gestion ITSM & activation de clé RGS**
 ---
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
