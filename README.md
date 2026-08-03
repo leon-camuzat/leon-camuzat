@@ -44,11 +44,9 @@
 ---
 ### 💼 Expérience - Ville de Marseille
 **Alternant Sécurité du SI** - DSI Ville de Marseille *(sept 2025 – août 2027)*  
-- Administration de la console EDR
-- Analyse SOC
+- Administration de la console EDR & Analyse SOC
 - Bastion Apache Guacamole - Développement & intégration Active Directory
-- Gestion ITSM
-- Activation de Clé RGS**
+- Gestion ITSM & Activation de Clé RGS**
 ---
 ### 🚀 Projets — La Plateforme
 #### 2ème année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
