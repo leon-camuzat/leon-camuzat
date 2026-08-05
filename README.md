@@ -65,18 +65,18 @@
 
 **Cloud**
 - [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) : Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
-- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) — Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
+- [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) : Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
 ---
 #### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **Sécurité**
 - [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) : Déploiement d'une infrastructure réseau complète : serveur NFS en RAID5, DHCP/DNS/LDAP en master/slave avec failover, pare-feu, VPN et authentification PAM-LDAP pour profils itinérants.
-- [**Bastion — Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) : Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
+- [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) : Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
 - [**VPN**](https://github.com/leon-camuzat/VPN.git) : Déploiement d'un serveur OpenVPN sur Debian : génération de certificats via easy-rsa, chiffrement AES et configuration client/serveur sur maquette VM.
 - [**WireShark**](https://github.com/leon-camuzat/Wire_Shark.git) : Analyse de trames réseau avec Wireshark : capture de paquets ARP, UDP et TCP, désencapsulation selon le modèle OSI, filtrage avancé et analyse de protocoles (DHCP, DNS, FTP, HTTPS, SMB).
 
 **Windows Server**
-- [**Windows Server — Active Directory**](https://github.com/leon-camuzat/WIndows_Server_AD.git) : Installation de Windows Server 2025 sur VMware : configuration DHCP, DNS et Active Directory, création d'OUs, groupes avec nesting, dossiers partagés avec droits SMB/NTFS, GPOs, mapping de lecteurs réseau et import d'utilisateurs via script CSV.
-- [**Windows Server — PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) : Déploiement d'images Windows via réseau : installation WDS/ADK, création d'images WinPE personnalisées, déploiement PXE et configuration d'un serveur TFTP open source.
+- [**Windows Server - Active Directory**](https://github.com/leon-camuzat/WIndows_Server_AD.git) : Installation de Windows Server 2025 sur VMware : configuration DHCP, DNS et Active Directory, création d'OUs, groupes avec nesting, dossiers partagés avec droits SMB/NTFS, GPOs, mapping de lecteurs réseau et import d'utilisateurs via script CSV.
+- [**Windows Server - PXE**](https://github.com/leon-camuzat/Serveur-PXE.git) : Déploiement d'images Windows via réseau : installation WDS/ADK, création d'images WinPE personnalisées, déploiement PXE et configuration d'un serveur TFTP open source.
 
 **Stockage**
 - [**TrueNAS Scale (RAIDZ2)**](https://github.com/leon-camuzat/TrueNAS-Scale.git) : Serveur TrueNAS Scale avec RAIDZ2 : partages Samba, SFTP et WebDAV, VaultWarden, sauvegarde automatisée via Rsync et VM hébergée sur le serveur.
@@ -86,8 +86,8 @@
 - [**Serveur LDAP**](https://github.com/leon-camuzat/LDAP.git) : Déploiement d'un serveur OpenLDAP : création de groupes et utilisateurs, sécurisation avec le module ppolicy (politique de mots de passe) et authentification FTP via LDAP.
 - [**Serveur VOIP**](https://github.com/leon-camuzat/Serveur_VOIP) : Installation et configuration d'Asterisk sur Debian compilé depuis les sources : configuration SIP, plan d'appel et tests d'appels entre softphones.
 - [**Serveur DHCP, DNS, SFTP, SSH**](https://github.com/leon-camuzat/ftp_dhcp_ssh) : Déploiement de 2 VMs Debian : serveur DHCP/DNS pour attribution automatique d'adresses IP et serveur SFTP/SSH pour transferts de fichiers chiffrés.
-- [**Cisco Packet Tracer — Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) : Simulation d'une Gateway sous Cisco Packet Tracer : interconnexion de 2 réseaux via un routeur, configuration des interfaces et test de connectivité par ping.
-- [**Cisco Packet Tracer — DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) : Simulation d'un réseau DHCP sous Cisco Packet Tracer : câblage de 3 PCs, 1 switch et 1 serveur avec attribution automatique d'adresses IP.
+- [**Cisco Packet Tracer - Gateway**](https://github.com/leon-camuzat/Cisco_Gateway) : Simulation d'une Gateway sous Cisco Packet Tracer : interconnexion de 2 réseaux via un routeur, configuration des interfaces et test de connectivité par ping.
+- [**Cisco Packet Tracer - DHCP**](https://github.com/leon-camuzat/CISCO_DHCP_Serveur) : Simulation d'un réseau DHCP sous Cisco Packet Tracer : câblage de 3 PCs, 1 switch et 1 serveur avec attribution automatique d'adresses IP.
 
 **Systèmes & Scripting**
 - [**Scripts Shell & Python**](https://github.com/leon-camuzat/Scripts.git) : Pratique des commandes Linux avancées sur Debian : recherche de fichiers, compression tar/gzip, manipulation de données avec awk et Python, gestion des processus et surveillance des ressources système.
@@ -102,15 +102,15 @@
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) : Développement d'un jeu de morpion en Python.
 ---
 ### 🧪 Projets Personnels — Station de Travail
-- [**ST — Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) : Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
-- [**ST — Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) : Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort.
-- [**ST — Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) : Mise en place des VMs et du réseau local.
-- [**ST — Config IA**](https://github.com/leon-camuzat/Station_de_Travail) : Connexion Claude API sur n8n, system prompt et switch_mode.sh.
-- [**ST — n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) : Pont local entre les outils du poste Windows et Claude AI.
-- [**ST — Anonymisation**](https://github.com/leon-camuzat/Station_de_Travail) : Nettoyage des données avant envoi à l'API Claude (RGPD).
-- [**ST — Dashboard**](https://github.com/leon-camuzat/Station_de_Travail) : Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
-- [**ST — Vaultwarden**](https://github.com/leon-camuzat/Station_de_Travail) : Gestionnaire de mots de passe auto-hébergé sur Windows via Docker Desktop.
-- [**ST — Lab Bastion**](https://github.com/leon-camuzat/Station_de_Travail) : Infrastructure réseau complète : FW, Bastion, XRDP, AD, NAS, Web interne.
+- [**ST - Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) : Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
+- [**ST - Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) : Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort.
+- [**ST - Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) : Mise en place des VMs et du réseau local.
+- [**ST - Config IA**](https://github.com/leon-camuzat/Station_de_Travail) : Connexion Claude API sur n8n, system prompt et switch_mode.sh.
+- [**ST - n8n & Automatisation**](https://github.com/leon-camuzat/Station_de_Travail) : Pont local entre les outils du poste Windows et Claude AI.
+- [**ST - Anonymisation**](https://github.com/leon-camuzat/Station_de_Travail) : Nettoyage des données avant envoi à l'API Claude (RGPD).
+- [**ST - Dashboard**](https://github.com/leon-camuzat/Station_de_Travail) : Dashboard Electron local centralisant projets, compétences, MOOCs et certifications.
+- [**ST - Vaultwarden**](https://github.com/leon-camuzat/Station_de_Travail) : Gestionnaire de mots de passe auto-hébergé sur Windows via Docker Desktop.
+- [**ST - Lab Bastion**](https://github.com/leon-camuzat/Station_de_Travail) : Infrastructure réseau complète : FW, Bastion, XRDP, AD, NAS, Web interne.
 ---
 ### 🎧 Culture Tech
 - [Underscore_](https://www.youtube.com/@_Underscore_)
