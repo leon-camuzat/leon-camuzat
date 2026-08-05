@@ -3,7 +3,7 @@
 
 ---
 ### 🛠️ Compétences
-- **DevOps & Automatisation** :
+- **DevOps & Automatisation** :   
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
