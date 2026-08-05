@@ -96,7 +96,7 @@
 
 **Développement Web**
 - [**Portfolio Personnel**](https://github.com/leon-camuzat/mon_portfolio.git) : Développement et conception de mon portfolio.
-- [**Fan-site — La Femme**](https://github.com/leon-camuzat/fan_site) : Création d'un site réactif dédié au groupe musical La Femme.
+- [**Fan-site**](https://github.com/leon-camuzat/fan_site) : Création d'un site réactif dédié au groupe musical La Femme.
 
 **Développement Python**
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) : Développement d'un jeu de morpion en Python.
