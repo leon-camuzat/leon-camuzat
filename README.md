@@ -67,7 +67,7 @@
 - [**Azure AD**](https://github.com/leon-camuzat/Azure_AD.git) : Configuration et sécurisation de Microsoft Entra ID : politiques MFA et accès conditionnel, automatisation de la gestion des utilisateurs.
 - [**AWS**](https://github.com/leon-camuzat/AWS_-_Azure) : Administration d'une infrastructure AWS : gestion IAM (utilisateurs, groupes, principe du moindre privilège, MFA), instances EC2 (Elastic IP, ENI, groupes de placement, hibernation), base de données RDS MySQL avec Read Replica et stockage S3.
 ---
-#### 1ère année — Licence Administrateur d'Infrastructures Réseaux Sécurisées
+#### 1ère année - Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **Sécurité**
 - [**Mini Lab**](https://github.com/leon-camuzat/Mini_Lab.git) : Déploiement d'une infrastructure réseau complète : serveur NFS en RAID5, DHCP/DNS/LDAP en master/slave avec failover, pare-feu, VPN et authentification PAM-LDAP pour profils itinérants.
 - [**Bastion - Portail Guacamole**](https://github.com/leon-camuzat/Bastion.git) : Installation d'un bastion Apache Guacamole sur Debian : accès RDP, SSH et VNC via navigateur, reverse proxy Nginx HTTPS, gestion des groupes/utilisateurs et isolation réseau via double interface.
@@ -101,7 +101,7 @@
 **Développement Python**
 - [**Jeu de Morpion**](https://github.com/leon-camuzat/Morpion) : Développement d'un jeu de morpion en Python.
 ---
-### 🧪 Projets Personnels — Station de Travail
+### 🧪 Projets Personnels - Station de Travail
 - [**ST - Assainissement & Personalisation**](https://github.com/leon-camuzat/Station_de_Travail) : Nettoyage du poste, arborescence minimaliste et interface Windows personnalisée.
 - [**ST - Clé USB Chiffrée & Backup**](https://github.com/leon-camuzat/Station_de_Travail) : Sauvegarde automatisée des données critiques sur clé USB chiffrée et coffre-fort.
 - [**ST - Infrastructure VMware**](https://github.com/leon-camuzat/Station_de_Travail) : Mise en place des VMs et du réseau local.
