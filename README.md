@@ -56,7 +56,8 @@
 - [**Kubernetes**](https://github.com/leon-camuzat/Kubernetes.git) — Montage d'un cluster K3S sur 3 VMs Debian (1 master, 2 workers), déploiement d'applications conteneurisées via YAML (Nginx, Apache, MariaDB), haute disponibilité avec replicas, stockage persistant, ConfigMaps, Secrets, RBAC et gestion via Helm.
 - [**Docker Swarm**](https://github.com/leon-camuzat/Docker_Swarm.git) — Déploiement d'un cluster Docker Swarm de 7 VMs Debian (3 managers Raft, 3 workers, 1 serveur NFS) pour la continuité d'activité : services conteneurisés (Registry, MariaDB, PHP, Nginx, VSCode Server), supervision via Portainer, Prometheus et Grafana, validation par 3 tests PCA/PRA.
 - [**Docker**](https://github.com/leon-camuzat/Docker.git) — Prise en main de Docker sur VM Debian : installation, commandes de base, création d'images personnalisées via Dockerfile.
-
+- [**Github Actions**](https://github.com/leon-camuzat/Github-Actions.git) — Mise en place d'un pipeline CI/CD sécurisé : vérification automatique du code à chaque push, gestion des secrets chiffrés, configuration d'un utilisateur de déploiement à moindre privilège avec clé SSH dédiée, et déploiement automatisé via Ansible sur une VM Debian.
+  
 **Systèmes**
 - [**Security Log Monitor**](https://github.com/leon-camuzat/PSMM) — Scripts Python via SSH pour monitorer 3 serveurs Debian (FTP, Web, MariaDB) : collecte des tentatives d'accès échouées, stockage en base MariaDB et envoi de rapports automatiques par mail.
 - [**Holodeck**](https://github.com/leon-camuzat/Holodeck) — Déploiement d'un serveur web multi-services sur VM Debian : Nginx HTTPS, PHP, MariaDB, FTP SSL/TLS, DHCP/DNS, annuaire LDAP pour l'authentification et pare-feu configuré.
