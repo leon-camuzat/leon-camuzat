@@ -50,6 +50,9 @@
 - Gestion ITSM & activation de clé RGS**
 ---
 ### 🚀 Projets - La Plateforme
+#### 3ème année - Licence Administrateur d'Infrastructures Réseaux Sécurisées
+**Cybersécurité & Conformité**
+- [**Projet RGPD**](https://github.com/leon-camuzat/Projet---RGPD.git) : Audit de conformité RGPD d'une entreprise fictive (éditeur de logiciels) : registre des traitements, analyse d'impact relative à la protection des données (AIPD/DPIA), gestion et simulation de violation de données, audit de conformité global.
 #### 2ème année - Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **DevOps & Automatisation**
 - [**Github Actions**](https://github.com/leon-camuzat/Github-Actions.git) : Mise en place d'un pipeline CI/CD sécurisé : vérification automatique du code à chaque push, gestion des secrets chiffrés, configuration d'un utilisateur de déploiement à moindre privilège avec clé SSH dédiée, et déploiement automatisé via Ansible sur une VM Debian.
