@@ -1,6 +1,8 @@
 ### 👋 Bienvenue sur mon GitHub !
 *Passionné de Linux, de LLM, de souveraineté numérique et de cybersécurité, je suis alternant sécurité du SI à la DSI **Ville de Marseille** au sein de l'équipe Cyber et étudiant en 3ème année de Licence d'Administrateur d'Infrastructures Sécurisées (AIS) à [La Plateforme](https://laplateforme.io).*
 
+📄 **[Consulter mon CV](https://github.com/leon-camuzat/CV.git)**
+
 ---
 ### 🛠️ Compétences
 - **DevOps & Automatisation** :   
