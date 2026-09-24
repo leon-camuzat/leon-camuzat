@@ -54,7 +54,7 @@
 ### 🚀 Projets - La Plateforme
 #### 3ème année - Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **Cybersécurité & Conformité**
-- [**Plateforme SOC**](https://github.com/leon-camuzat/Plateforme_SOC.git) : Mise en place d'une chaîne de supervision et de réponse à incident complète, du monitoring temps réel (Zabbix, Prometheus, Grafana) à l'analyse (Wireshark, Kibana) et la gestion de crise (TheHive, MISP). Détection des activités anormales, automatisation des alertes, et réponse aux incidents documentée.
+- [**Plateforme SOC**](https://github.com/leon-camuzat/Plateforme_SOC.git) : Mise en place d'une chaîne complète de supervision et de réponse à incident, du monitoring temps réel (Zabbix, Prometheus, Grafana) à l'analyse (Wireshark, ELK) et au traitement des incidents (TheHive, MISP). Détection d'activités anormales, alerting automatisé, réponse aux incidents documentée, et audit de sécurité de l'infrastructure (Lynis, Docker Bench, Trivy).
 - [**Projet RGPD**](https://github.com/leon-camuzat/Projet---RGPD.git) : Audit de conformité RGPD d'une entreprise fictive (éditeur de logiciels) : registre des traitements, analyse d'impact relative à la protection des données (AIPD/DPIA), gestion et simulation de violation de données, audit de conformité global.
 #### 2ème année - Licence Administrateur d'Infrastructures Réseaux Sécurisées
 **DevOps & Automatisation**
