@@ -38,59 +38,52 @@
 - **BTS Audiovisuel** - ESEC *(2015-2017)*
 - **Bac S, mention Bien** - Lycée Claude-Fauriel *(2013)*
 
+🌍 **Langues** : Anglais B2 · Espagnol B1
+
 ---
 ### 🛠️ Compétences
-- **Sécurité & Supervision** :  
+- **🔐 Accès & Identité** :  
   ![Apache Guacamole](https://img.shields.io/badge/Apache_Guacamole-578B34?style=flat&logo=apache&logoColor=white)
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
+  ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+  ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-000000?style=flat&logo=openldap&logoColor=white)
+  ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **🛡️ SOC & Supervision** :  
   ![Elastic](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
   ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
   ![TheHive](https://img.shields.io/badge/TheHive-F3D02F?style=flat&logoColor=black)
   ![MISP](https://img.shields.io/badge/MISP-2C3E50?style=flat&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+- **🎯 Tests d'intrusion** :  
   ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logo=tenable&logoColor=white)
   ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-- **Identité & Accès** :  
-  ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
-  ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
-  ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-000000?style=flat&logo=openldap&logoColor=white)
-  ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- **DevOps & Automatisation** :  
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-- **Cloud** :  
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- **Réseaux & Virtualisation** :  
-  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-  ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
-  ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
-- **Systèmes d'exploitation** :  
+- **🖥️ Systèmes, Réseaux & Virtualisation** :  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
   ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-- **Langages** :  
+  ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
+  ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
+  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+- **⚙️ DevOps & Cloud** :  
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **🧰 Scripting, Outils & IA** :  
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Outils & Plateformes** :  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
   ![EasyVista](https://img.shields.io/badge/EasyVista_ITSM-00A3E0?style=flat&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- **IA & Assistants** :  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
   ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
-- **Langues** : Anglais B2 · Espagnol B1
 
 ---
 ### 📜 Certifications & MOOC
@@ -168,10 +161,6 @@
 - **Anonymisation** : nettoyage des données avant envoi à l'API (conformité RGPD).
 - **Dashboard** : application Electron locale centralisant projets, compétences, MOOC et certifications.
 - **Assainissement & Personnalisation** : nettoyage du poste, arborescence minimaliste et interface personnalisée.
-
----
-### 🎸 Parcours
-Avant l'informatique, j'ai été **technicien du spectacle** (son, scène, machinerie) pour Live Nation, Dushow et Sud Concerts (2018-2024), et **musicien et organisateur de tournées** avec Pogy & Les Kéfars (2017-2023) : enregistrement d'un album et tournées en Europe. Ma reconversion dans la cybersécurité est un choix de conviction, porté par mon intérêt pour la souveraineté numérique, l'open source et l'IA.
 
 ---
 ### 🎧 Veille technologique
