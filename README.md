@@ -25,7 +25,7 @@
 - Préparation d'une mallette de tests d'intrusion physique
 
 **Support utilisateur & ITSM**
-- Prise en charge des tickets EasyVista (support de niveau 1), diagnostic et résolution d'incidents
+- Prise en charge des tickets (support de niveau 1), diagnostic et résolution d'incidents
 - Rédaction des comptes rendus de réunion
 
 ---
