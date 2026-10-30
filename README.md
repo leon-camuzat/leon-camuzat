@@ -45,11 +45,11 @@
 - **🔐 Accès & Identité** :  
   ![Apache Guacamole](https://img.shields.io/badge/Apache_Guacamole-578B34?style=flat&logo=apache&logoColor=white)
   ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
-  ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+  ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
   ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-000000?style=flat&logo=openldap&logoColor=white)
   ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - **🛡️ SOC & Supervision** :  
-  ![Elastic](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
+  ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
   ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -60,31 +60,36 @@
   ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logo=tenable&logoColor=white)
   ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-- **🖥️ Systèmes, Réseaux & Virtualisation** :  
+- **🖥️ Systèmes** :  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
   ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+- **🌐 Réseaux** :  
+  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+  ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
+- **💾 Virtualisation & Stockage** :  
   ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=flat&logo=vmware&logoColor=white)
   ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
-  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-- **⚙️ DevOps & Cloud** :  
+- **⚙️ DevOps & Automatisation** :  
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- **🧰 Scripting, Outils & IA** :  
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+- **☁️ Cloud** :  
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **📜 Scripting** :  
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **🧰 Outils** :  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-  ![EasyVista](https://img.shields.io/badge/EasyVista_ITSM-00A3E0?style=flat&logoColor=white)
+  ![EasyVista ITSM](https://img.shields.io/badge/EasyVista_ITSM-00A3E0?style=flat&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
+- **🤖 IA & LLM** :  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-  ![Lumo](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
-
+  ![Lumo by Proton](https://img.shields.io/badge/Lumo_by_Proton-6D4AFF?style=flat&logo=proton&logoColor=white)
 ---
 ### 📜 Certifications & MOOC
 #### 🏅 Certifications
