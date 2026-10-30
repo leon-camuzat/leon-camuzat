@@ -25,7 +25,7 @@
 - Préparation d'une mallette de tests d'intrusion physique
 
 **Support utilisateur & ITSM**
-- Prise en charge des tickets (support de niveau 1), diagnostic et résolution d'incidents
+- Prise en charge des tickets ITSM (support de niveau 1), diagnostic et résolution d'incidents
 - Rédaction des comptes rendus de réunion
 
 ---
@@ -76,6 +76,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 - **☁️ Cloud** :  
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -92,7 +93,6 @@
 ### 📜 Certifications & MOOC
 #### 🏅 Certifications
 - ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1_en_préparation-FFA500?style=flat&logo=linux&logoColor=white) **[LPIC-1 - Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-1-overview/)** : architecture système, gestion des paquets, système de fichiers, commandes GNU/Unix, scripting Bash, gestion des utilisateurs, réseau de base et sécurité.
-- ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2_prévue-lightgrey?style=flat&logo=linux&logoColor=white) **[LPIC-2 - Linux Professional Institute](https://www.lpi.org/fr/our-certifications/lpic-2-overview/)** : noyau Linux, démarrage système, réseau avancé, DNS, serveurs web et de fichiers, messagerie, proxy, sécurité réseau et haute disponibilité (après la LPIC-1).
 #### 🎓 MOOC
 - ![MOOC CNIL RGPD](https://img.shields.io/badge/MOOC_CNIL-RGPD-003189?style=flat&logo=bookstack&logoColor=white) **[MOOC CNIL - L'Atelier RGPD](https://atelier-rgpd.cnil.fr/)** : formation en ligne sur le Règlement Général sur la Protection des Données (RGPD) délivrée par la CNIL.
 - ![SecNumAcadémie ANSSI](https://img.shields.io/badge/ANSSI-SecNumAcadémie_en_cours-FFA500?style=flat&logo=shield&logoColor=white) **[SecNumAcadémie - ANSSI](https://secnumacademie.gouv.fr/)** : MOOC de sensibilisation à la cybersécurité délivré par l'ANSSI (en cours).
