@@ -85,7 +85,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **🧰 Outils** :  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![EasyVista ITSM](https://img.shields.io/badge/EasyVista_ITSM-00A3E0?style=flat&logoColor=white)
+  ![ITSM](https://img.shields.io/badge/EasyVista_ITSM-00A3E0?style=flat&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-7B68EE?style=flat&logo=obsidian&logoColor=white)
 - **🤖 IA & LLM** :  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
